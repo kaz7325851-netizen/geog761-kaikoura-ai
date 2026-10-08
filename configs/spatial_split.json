@@ -1,0 +1,31 @@
+{
+  "version": "v1",
+  "design_sha256": "2b1047b8a36c34bc8cd81378c82e1dc57eb7a22f40674c0bd5b62101478131f1",
+  "assignments": {
+    "SH1-EXP-01": "train",
+    "SH1-EXP-02": "train",
+    "SH1-EXP-03": "train",
+    "SH1-EXP-04": "train",
+    "PILOT-ANCHOR": "train",
+    "SH1-EXP-05": "validation",
+    "SH1-EXP-06": "test",
+    "SH1-EXP-07": "test"
+  },
+  "selection_rule": "Sort all frozen regions south-to-north: southern5 train, next1 validation, northern2 test",
+  "minimum_aoi_gap_m": {
+    "train_to_validation_m": 1210.0,
+    "train_to_test_m": 9613.344891347651,
+    "validation_to_test_m": 1970.0
+  },
+  "feature_neighborhood_radius_m": 30,
+  "status": "geographic_assignment_frozen_labels_NOT_ready",
+  "not_blind": true,
+  "prior_exposure": "Inventory distributions and earlier optical model results are already known",
+  "policy": [
+    "No random pixel split; do not change after RF scores are observed",
+    "Test labels may be independently reviewed before training, not used for tuning",
+    "Quarantine whole source polygons if they intersect multiple roles",
+    "This is within-event spatial transfer, not cross-event validation"
+  ],
+  "original_design_sha256": "78f435ad8d75610d6192a3964b7c2005271c6403d977dffa765410e8e456bec8"
+}

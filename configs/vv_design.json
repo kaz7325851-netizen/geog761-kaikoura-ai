@@ -1,0 +1,226 @@
+{
+  "created_utc": "2026-10-07T22:03:27.438581+00:00",
+  "status": "packaged_frozen_geometry; local VV export previously completed",
+  "sites": [
+    {
+      "id": "SH1-EXP-01",
+      "bounds": [
+        1640820.0,
+        5294490.0,
+        1647220.0,
+        5300890.0
+      ],
+      "grid": [
+        10,
+        0,
+        1640820.0,
+        0,
+        -10,
+        5300890.0
+      ],
+      "shape": [
+        640,
+        640
+      ],
+      "sh1_length_km": 8.28392201320763
+    },
+    {
+      "id": "SH1-EXP-02",
+      "bounds": [
+        1648830.0,
+        5300650.0,
+        1655230.0,
+        5307050.0
+      ],
+      "grid": [
+        10,
+        0,
+        1648830.0,
+        0,
+        -10,
+        5307050.0
+      ],
+      "shape": [
+        640,
+        640
+      ],
+      "sh1_length_km": 6.699346116026802
+    },
+    {
+      "id": "SH1-EXP-03",
+      "bounds": [
+        1653640.0,
+        5308680.0,
+        1660040.0,
+        5315080.0
+      ],
+      "grid": [
+        10,
+        0,
+        1653640.0,
+        0,
+        -10,
+        5315080.0
+      ],
+      "shape": [
+        640,
+        640
+      ],
+      "sh1_length_km": 8.16150245504909
+    },
+    {
+      "id": "SH1-EXP-04",
+      "bounds": [
+        1660240.0,
+        5315760.0,
+        1666640.0,
+        5322160.0
+      ],
+      "grid": [
+        10,
+        0,
+        1660240.0,
+        0,
+        -10,
+        5322160.0
+      ],
+      "shape": [
+        640,
+        640
+      ],
+      "sh1_length_km": 7.794061808958628
+    },
+    {
+      "id": "SH1-EXP-05",
+      "bounds": [
+        1672350.0,
+        5329240.0,
+        1678750.0,
+        5335640.0
+      ],
+      "grid": [
+        10,
+        0,
+        1672350.0,
+        0,
+        -10,
+        5335640.0
+      ],
+      "shape": [
+        640,
+        640
+      ],
+      "sh1_length_km": 8.867710735796116
+    },
+    {
+      "id": "SH1-EXP-06",
+      "bounds": [
+        1674450.0,
+        5337610.0,
+        1680850.0,
+        5344010.0
+      ],
+      "grid": [
+        10,
+        0,
+        1674450.0,
+        0,
+        -10,
+        5344010.0
+      ],
+      "shape": [
+        640,
+        640
+      ],
+      "sh1_length_km": 7.032786414934404
+    },
+    {
+      "id": "SH1-EXP-07",
+      "bounds": [
+        1680150.0,
+        5345710.0,
+        1686550.0,
+        5352110.0
+      ],
+      "grid": [
+        10,
+        0,
+        1680150.0,
+        0,
+        -10,
+        5352110.0
+      ],
+      "shape": [
+        640,
+        640
+      ],
+      "sh1_length_km": 8.296396498622704
+    },
+    {
+      "id": "PILOT-ANCHOR",
+      "bounds": [
+        1667250.0,
+        5321630.0,
+        1673650.0,
+        5328030.0
+      ],
+      "grid": [
+        10,
+        0,
+        1667250.0,
+        0,
+        -10,
+        5328030.0
+      ],
+      "shape": [
+        640,
+        640
+      ],
+      "sh1_length_km": 9.029673551000752
+    }
+  ],
+  "pre_date_utc": "2016-11-03",
+  "post_date_utc": "2016-11-15",
+  "median_pre_dates_utc": [
+    "2016-09-16",
+    "2016-10-10",
+    "2016-11-03"
+  ],
+  "crs": "EPSG:2193",
+  "pass": "ASCENDING",
+  "relative_orbit": 52,
+  "platform": "A",
+  "nodata": -9999,
+  "band_order": [
+    "VV_pre",
+    "VV_post",
+    "dVV",
+    "VV_pre_median",
+    "dVV_median",
+    "angle_pre",
+    "angle_post",
+    "elevation",
+    "slope_deg",
+    "aspect_deg",
+    "alpha_r_pre",
+    "alpha_r_post",
+    "valid_pre",
+    "valid_post",
+    "valid_median",
+    "geometry_visible_pre",
+    "geometry_visible_post"
+  ],
+  "selection": "Reuse all seven previously geometry-selected SH1 squares and the optical pilot anchor; no deletion based on RF scores or SAR coverage",
+  "source_geometry_sha256": "297ca01c8466b561db653c7f03989399529ecbac496323af3ba5d74bf31618e1",
+  "limitations": [
+    "Pilot subset, not all SH1/Route70 or final team AOI",
+    "Prior sites originally limited by optical product footprint; not an unbiased event-wide sample",
+    "Prior optical model outputs and inventory counts are already known; this is not a blind new test",
+    "Local active distortion approximation only, no passive ray tracing",
+    "No radiometric terrain flattening; SRTM terrain is about30m, not native10m",
+    "Spatial assignment fixed; weak label proposals are not approved truth labels"
+  ],
+  "training": false,
+  "inference": false,
+  "source_geometry_description": "BBUnet expanded-test frozen grid selection; geometry unchanged"
+}

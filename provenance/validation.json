@@ -1,0 +1,226 @@
+{
+  "validated_at_utc": "2026-10-08T07:31:15.017622+00:00",
+  "python": "3.12.14",
+  "package_versions": {
+    "numpy": "2.2.6",
+    "scipy": "1.18.1",
+    "rasterio": "1.5.2"
+  },
+  "synthetic_unit_tests_passed": 8,
+  "cli_help_passed": true,
+  "python_syntax_files_passed": 102,
+  "real_raster_comparisons": [
+    {
+      "region": "SH1-EXP-01",
+      "file": "VV_feature_candidates.tif",
+      "grid_and_array_equal": true
+    },
+    {
+      "region": "SH1-EXP-01",
+      "file": "data_validity_mask.tif",
+      "grid_and_array_equal": true
+    },
+    {
+      "region": "SH1-EXP-01",
+      "file": "local_geometry_approx_mask.tif",
+      "grid_and_array_equal": true
+    },
+    {
+      "region": "SH1-EXP-01",
+      "file": "feature_numerical_validity_mask.tif",
+      "grid_and_array_equal": true
+    },
+    {
+      "region": "SH1-EXP-01",
+      "file": "screened_feature_mask.tif",
+      "grid_and_array_equal": true
+    },
+    {
+      "region": "SH1-EXP-02",
+      "file": "VV_feature_candidates.tif",
+      "grid_and_array_equal": true
+    },
+    {
+      "region": "SH1-EXP-02",
+      "file": "data_validity_mask.tif",
+      "grid_and_array_equal": true
+    },
+    {
+      "region": "SH1-EXP-02",
+      "file": "local_geometry_approx_mask.tif",
+      "grid_and_array_equal": true
+    },
+    {
+      "region": "SH1-EXP-02",
+      "file": "feature_numerical_validity_mask.tif",
+      "grid_and_array_equal": true
+    },
+    {
+      "region": "SH1-EXP-02",
+      "file": "screened_feature_mask.tif",
+      "grid_and_array_equal": true
+    },
+    {
+      "region": "SH1-EXP-03",
+      "file": "VV_feature_candidates.tif",
+      "grid_and_array_equal": true
+    },
+    {
+      "region": "SH1-EXP-03",
+      "file": "data_validity_mask.tif",
+      "grid_and_array_equal": true
+    },
+    {
+      "region": "SH1-EXP-03",
+      "file": "local_geometry_approx_mask.tif",
+      "grid_and_array_equal": true
+    },
+    {
+      "region": "SH1-EXP-03",
+      "file": "feature_numerical_validity_mask.tif",
+      "grid_and_array_equal": true
+    },
+    {
+      "region": "SH1-EXP-03",
+      "file": "screened_feature_mask.tif",
+      "grid_and_array_equal": true
+    },
+    {
+      "region": "SH1-EXP-04",
+      "file": "VV_feature_candidates.tif",
+      "grid_and_array_equal": true
+    },
+    {
+      "region": "SH1-EXP-04",
+      "file": "data_validity_mask.tif",
+      "grid_and_array_equal": true
+    },
+    {
+      "region": "SH1-EXP-04",
+      "file": "local_geometry_approx_mask.tif",
+      "grid_and_array_equal": true
+    },
+    {
+      "region": "SH1-EXP-04",
+      "file": "feature_numerical_validity_mask.tif",
+      "grid_and_array_equal": true
+    },
+    {
+      "region": "SH1-EXP-04",
+      "file": "screened_feature_mask.tif",
+      "grid_and_array_equal": true
+    },
+    {
+      "region": "SH1-EXP-05",
+      "file": "VV_feature_candidates.tif",
+      "grid_and_array_equal": true
+    },
+    {
+      "region": "SH1-EXP-05",
+      "file": "data_validity_mask.tif",
+      "grid_and_array_equal": true
+    },
+    {
+      "region": "SH1-EXP-05",
+      "file": "local_geometry_approx_mask.tif",
+      "grid_and_array_equal": true
+    },
+    {
+      "region": "SH1-EXP-05",
+      "file": "feature_numerical_validity_mask.tif",
+      "grid_and_array_equal": true
+    },
+    {
+      "region": "SH1-EXP-05",
+      "file": "screened_feature_mask.tif",
+      "grid_and_array_equal": true
+    },
+    {
+      "region": "SH1-EXP-06",
+      "file": "VV_feature_candidates.tif",
+      "grid_and_array_equal": true
+    },
+    {
+      "region": "SH1-EXP-06",
+      "file": "data_validity_mask.tif",
+      "grid_and_array_equal": true
+    },
+    {
+      "region": "SH1-EXP-06",
+      "file": "local_geometry_approx_mask.tif",
+      "grid_and_array_equal": true
+    },
+    {
+      "region": "SH1-EXP-06",
+      "file": "feature_numerical_validity_mask.tif",
+      "grid_and_array_equal": true
+    },
+    {
+      "region": "SH1-EXP-06",
+      "file": "screened_feature_mask.tif",
+      "grid_and_array_equal": true
+    },
+    {
+      "region": "SH1-EXP-07",
+      "file": "VV_feature_candidates.tif",
+      "grid_and_array_equal": true
+    },
+    {
+      "region": "SH1-EXP-07",
+      "file": "data_validity_mask.tif",
+      "grid_and_array_equal": true
+    },
+    {
+      "region": "SH1-EXP-07",
+      "file": "local_geometry_approx_mask.tif",
+      "grid_and_array_equal": true
+    },
+    {
+      "region": "SH1-EXP-07",
+      "file": "feature_numerical_validity_mask.tif",
+      "grid_and_array_equal": true
+    },
+    {
+      "region": "SH1-EXP-07",
+      "file": "screened_feature_mask.tif",
+      "grid_and_array_equal": true
+    },
+    {
+      "region": "PILOT-ANCHOR",
+      "file": "VV_feature_candidates.tif",
+      "grid_and_array_equal": true
+    },
+    {
+      "region": "PILOT-ANCHOR",
+      "file": "data_validity_mask.tif",
+      "grid_and_array_equal": true
+    },
+    {
+      "region": "PILOT-ANCHOR",
+      "file": "local_geometry_approx_mask.tif",
+      "grid_and_array_equal": true
+    },
+    {
+      "region": "PILOT-ANCHOR",
+      "file": "feature_numerical_validity_mask.tif",
+      "grid_and_array_equal": true
+    },
+    {
+      "region": "PILOT-ANCHOR",
+      "file": "screened_feature_mask.tif",
+      "grid_and_array_equal": true
+    }
+  ],
+  "weak_reference_rows_identical": 530,
+  "credential_pattern_scan_findings": [],
+  "model_training_performed": false,
+  "historical_inference_rerun": false,
+  "earth_engine_export_rerun": false,
+  "fresh_dependency_install_tested": false,
+  "github_upload_performed": false,
+  "limitations": [
+    "Array equivalence is not landslide accuracy or road-state validation",
+    "Pattern scanning is a safeguard, not a security guarantee",
+    "Third-party licensing review still required before publication"
+  ]
+}

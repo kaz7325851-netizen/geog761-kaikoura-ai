@@ -1,0 +1,9 @@
+# Additional versions observed in the historical geospatial environment.
+# Use separately from legacy TensorFlow/PyTorch environments.
+-r requirements-core.txt
+shapely==2.1.2
+pyproj==3.8.0
+pyshp==2.3.1
+pyogrio==0.13.0
+requests==2.34.2
+matplotlib==3.10.3

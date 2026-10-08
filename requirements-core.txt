@@ -1,0 +1,5 @@
+# Versions present in the locally validated geospatial environment.
+# They are not a universal Windows/GDAL lockfile.
+numpy==2.2.6
+scipy==1.18.1
+rasterio==1.5.2

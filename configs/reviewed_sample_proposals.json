@@ -1,0 +1,5973 @@
+{
+  "status": "WEAK_PROPOSALS_NOT_APPROVED",
+  "feature_names": [
+    "VV_pre_filtered_db",
+    "VV_post_filtered_db",
+    "dVV_filtered_db",
+    "abs_dVV_filtered_db",
+    "pre_local_std_5x5_db",
+    "post_local_std_5x5_db",
+    "delta_local_std_5x5_db",
+    "elevation_m",
+    "slope_deg",
+    "aspect_sin",
+    "aspect_cos"
+  ],
+  "records": [
+    {
+      "region_id": "SH1-EXP-01",
+      "role": "train",
+      "row": 177,
+      "col": 206,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:11141",
+        "debris:5023"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-01",
+      "role": "train",
+      "row": 141,
+      "col": 37,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:11104",
+        "debris:4998"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-01",
+      "role": "train",
+      "row": 550,
+      "col": 176,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:27060"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-01",
+      "role": "train",
+      "row": 182,
+      "col": 148,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:5019"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-01",
+      "role": "train",
+      "row": 198,
+      "col": 161,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:5020"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-01",
+      "role": "train",
+      "row": 308,
+      "col": 302,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:27078"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-01",
+      "role": "train",
+      "row": 217,
+      "col": 375,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:27099"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-01",
+      "role": "train",
+      "row": 255,
+      "col": 118,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:5040"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-01",
+      "role": "train",
+      "row": 225,
+      "col": 152,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:5021"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-01",
+      "role": "train",
+      "row": 308,
+      "col": 320,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:27090"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-01",
+      "role": "train",
+      "row": 136,
+      "col": 459,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:4645"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-01",
+      "role": "train",
+      "row": 260,
+      "col": 330,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:27098"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-01",
+      "role": "train",
+      "row": 181,
+      "col": 140,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:11134"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-01",
+      "role": "train",
+      "row": 130,
+      "col": 9,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:11101",
+        "debris:4995"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-01",
+      "role": "train",
+      "row": 154,
+      "col": 113,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:21226"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-01",
+      "role": "train",
+      "row": 172,
+      "col": 442,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:25906"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-01",
+      "role": "train",
+      "row": 154,
+      "col": 461,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:4634"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-01",
+      "role": "train",
+      "row": 223,
+      "col": 151,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:11138"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-01",
+      "role": "train",
+      "row": 274,
+      "col": 73,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:11173",
+        "debris:5043"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-01",
+      "role": "train",
+      "row": 134,
+      "col": 460,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:4645"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-01",
+      "role": "train",
+      "row": 149,
+      "col": 458,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:4634"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-01",
+      "role": "train",
+      "row": 186,
+      "col": 135,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:11134"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-01",
+      "role": "train",
+      "row": 496,
+      "col": 166,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:4672"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-01",
+      "role": "train",
+      "row": 313,
+      "col": 305,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:27078"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-01",
+      "role": "train",
+      "row": 127,
+      "col": 75,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:5007"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-01",
+      "role": "train",
+      "row": 101,
+      "col": 45,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:11107",
+        "debris:5001"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-01",
+      "role": "train",
+      "row": 294,
+      "col": 304,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:4579"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-01",
+      "role": "train",
+      "row": 602,
+      "col": 176,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:26783"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-01",
+      "role": "train",
+      "row": 184,
+      "col": 395,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:27109"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-01",
+      "role": "train",
+      "row": 139,
+      "col": 390,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:10604",
+        "debris:4602"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-01",
+      "role": "train",
+      "row": 288,
+      "col": 331,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:25877"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-01",
+      "role": "train",
+      "row": 166,
+      "col": 432,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:10608"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-01",
+      "role": "train",
+      "row": 75,
+      "col": 594,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:35888"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-01",
+      "role": "train",
+      "row": 141,
+      "col": 199,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:11145",
+        "debris:5025"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-01",
+      "role": "train",
+      "row": 272,
+      "col": 76,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:5043"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-01",
+      "role": "train",
+      "row": 210,
+      "col": 140,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:5034"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-02",
+      "role": "train",
+      "row": 57,
+      "col": 202,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-02-R03"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-02",
+      "role": "train",
+      "row": 57,
+      "col": 203,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-02-R03"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-02",
+      "role": "train",
+      "row": 57,
+      "col": 204,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-02-R03"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-02",
+      "role": "train",
+      "row": 58,
+      "col": 202,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-02-R03"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-02",
+      "role": "train",
+      "row": 58,
+      "col": 203,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-02-R03"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-02",
+      "role": "train",
+      "row": 58,
+      "col": 204,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-02-R03"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-02",
+      "role": "train",
+      "row": 59,
+      "col": 202,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-02-R03"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-02",
+      "role": "train",
+      "row": 59,
+      "col": 203,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-02-R03"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-02",
+      "role": "train",
+      "row": 59,
+      "col": 204,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-02-R03"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-02",
+      "role": "train",
+      "row": 113,
+      "col": 496,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-02-R05"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-02",
+      "role": "train",
+      "row": 113,
+      "col": 497,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-02-R05"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-02",
+      "role": "train",
+      "row": 113,
+      "col": 498,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-02-R05"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-02",
+      "role": "train",
+      "row": 114,
+      "col": 496,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-02-R05"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-02",
+      "role": "train",
+      "row": 114,
+      "col": 497,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-02-R05"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-02",
+      "role": "train",
+      "row": 114,
+      "col": 498,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-02-R05"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-02",
+      "role": "train",
+      "row": 115,
+      "col": 496,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-02-R05"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-02",
+      "role": "train",
+      "row": 115,
+      "col": 497,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-02-R05"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-02",
+      "role": "train",
+      "row": 115,
+      "col": 498,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-02-R05"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-02",
+      "role": "train",
+      "row": 299,
+      "col": 95,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-02-R04"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-02",
+      "role": "train",
+      "row": 299,
+      "col": 96,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-02-R04"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-02",
+      "role": "train",
+      "row": 299,
+      "col": 97,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-02-R04"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-02",
+      "role": "train",
+      "row": 300,
+      "col": 95,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-02-R04"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-02",
+      "role": "train",
+      "row": 300,
+      "col": 96,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-02-R04"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-02",
+      "role": "train",
+      "row": 300,
+      "col": 97,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-02-R04"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-02",
+      "role": "train",
+      "row": 301,
+      "col": 95,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-02-R04"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-02",
+      "role": "train",
+      "row": 301,
+      "col": 96,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-02-R04"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-02",
+      "role": "train",
+      "row": 301,
+      "col": 97,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-02-R04"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-02",
+      "role": "train",
+      "row": 331,
+      "col": 261,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-02-R01"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-02",
+      "role": "train",
+      "row": 331,
+      "col": 262,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-02-R01"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-02",
+      "role": "train",
+      "row": 331,
+      "col": 263,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-02-R01"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-02",
+      "role": "train",
+      "row": 332,
+      "col": 261,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-02-R01"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-02",
+      "role": "train",
+      "row": 332,
+      "col": 262,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-02-R01"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-02",
+      "role": "train",
+      "row": 332,
+      "col": 263,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-02-R01"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-02",
+      "role": "train",
+      "row": 333,
+      "col": 261,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-02-R01"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-02",
+      "role": "train",
+      "row": 333,
+      "col": 262,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-02-R01"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-02",
+      "role": "train",
+      "row": 333,
+      "col": 263,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-02-R01"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-02",
+      "role": "train",
+      "row": 271,
+      "col": 547,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:27193"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-02",
+      "role": "train",
+      "row": 271,
+      "col": 571,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:27197"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-02",
+      "role": "train",
+      "row": 273,
+      "col": 578,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:27198"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-02",
+      "role": "train",
+      "row": 263,
+      "col": 561,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:27195"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-02",
+      "role": "train",
+      "row": 274,
+      "col": 578,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:27198"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-02",
+      "role": "train",
+      "row": 270,
+      "col": 546,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:27193"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-02",
+      "role": "train",
+      "row": 272,
+      "col": 527,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:19727"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-02",
+      "role": "train",
+      "row": 272,
+      "col": 528,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:19727"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 56,
+      "col": 75,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-03-R03"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 56,
+      "col": 76,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-03-R03"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 56,
+      "col": 77,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-03-R03"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 57,
+      "col": 75,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-03-R03"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 57,
+      "col": 76,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-03-R03"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 57,
+      "col": 77,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-03-R03"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 58,
+      "col": 75,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-03-R03"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 58,
+      "col": 76,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-03-R03"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 58,
+      "col": 77,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-03-R03"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 85,
+      "col": 65,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-03-R04"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 85,
+      "col": 66,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-03-R04"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 85,
+      "col": 67,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-03-R04"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 86,
+      "col": 65,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-03-R04"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 86,
+      "col": 66,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-03-R04"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 86,
+      "col": 67,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-03-R04"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 87,
+      "col": 65,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-03-R04"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 87,
+      "col": 66,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-03-R04"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 87,
+      "col": 67,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-03-R04"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 304,
+      "col": 324,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-03-R01"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 304,
+      "col": 325,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-03-R01"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 304,
+      "col": 326,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-03-R01"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 305,
+      "col": 324,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-03-R01"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 305,
+      "col": 325,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-03-R01"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 305,
+      "col": 326,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-03-R01"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 306,
+      "col": 324,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-03-R01"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 306,
+      "col": 325,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-03-R01"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 306,
+      "col": 326,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-03-R01"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 500,
+      "col": 196,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-03-R02"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 500,
+      "col": 197,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-03-R02"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 500,
+      "col": 198,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-03-R02"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 501,
+      "col": 196,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-03-R02"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 501,
+      "col": 197,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-03-R02"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 501,
+      "col": 198,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-03-R02"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 502,
+      "col": 196,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-03-R02"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 502,
+      "col": 197,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-03-R02"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 502,
+      "col": 198,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-03-R02"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 7,
+      "col": 5,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:11115"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 23,
+      "col": 11,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:21005",
+        "debris:12811"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 5,
+      "col": 5,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:19089",
+        "debris:11115"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 11,
+      "col": 12,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:11115"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 254,
+      "col": 496,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:2813"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 25,
+      "col": 11,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:21005",
+        "debris:12811"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 25,
+      "col": 10,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:12811"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 12,
+      "col": 14,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:19090"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 185,
+      "col": 21,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:35214"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 19,
+      "col": 35,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:21003"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 27,
+      "col": 6,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:12811"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 14,
+      "col": 4,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:21007"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 19,
+      "col": 33,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:21003",
+        "debris:21863"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 18,
+      "col": 5,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:11114"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 10,
+      "col": 9,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:11115"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 6,
+      "col": 6,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:19089",
+        "debris:11115"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 18,
+      "col": 33,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:21003",
+        "debris:21863"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 14,
+      "col": 11,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:19091"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 6,
+      "col": 5,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:11115"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 18,
+      "col": 34,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:21003"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 16,
+      "col": 3,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:21007"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 6,
+      "col": 8,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:19089",
+        "debris:11115"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 4,
+      "col": 9,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:19089"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 4,
+      "col": 6,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:19089",
+        "debris:11115"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 3,
+      "col": 5,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:19089"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 9,
+      "col": 8,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:11115"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 26,
+      "col": 8,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:12811"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 33,
+      "col": 9,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:21006",
+        "debris:12812"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 49,
+      "col": 4,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:11117"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 7,
+      "col": 6,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:11115"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 11,
+      "col": 16,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:19090"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 10,
+      "col": 7,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:11115"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 8,
+      "col": 6,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:11115"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 12,
+      "col": 13,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:19090"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 25,
+      "col": 12,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:21005"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 9,
+      "col": 7,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:11115"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 254,
+      "col": 497,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:2813"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 18,
+      "col": 32,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:21003",
+        "debris:21863"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 19,
+      "col": 4,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:11114"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 15,
+      "col": 5,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:21007"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 8,
+      "col": 5,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:11115"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 5,
+      "col": 10,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:19089"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 26,
+      "col": 12,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:12811"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 11,
+      "col": 14,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:19090"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 15,
+      "col": 9,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:19091"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 25,
+      "col": 9,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:12811"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 3,
+      "col": 8,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:19089"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 5,
+      "col": 7,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:19089",
+        "debris:11115"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 10,
+      "col": 15,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:19090",
+        "debris:11115"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 18,
+      "col": 8,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:35228"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 19,
+      "col": 34,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:21003"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 7,
+      "col": 7,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:11115"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 22,
+      "col": 14,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:12810"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 23,
+      "col": 15,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:21004"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 9,
+      "col": 6,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:11115"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 23,
+      "col": 10,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:12811"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 11,
+      "col": 11,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:11115"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 11,
+      "col": 9,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:11115"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 253,
+      "col": 497,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:2813"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 49,
+      "col": 3,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:11117"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 5,
+      "col": 9,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:19089",
+        "debris:11115"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 184,
+      "col": 21,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:35214"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 18,
+      "col": 9,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:35228"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 6,
+      "col": 9,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:19089",
+        "debris:11115"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 14,
+      "col": 9,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:19091"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 253,
+      "col": 496,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:2813"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 10,
+      "col": 6,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:11115"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 17,
+      "col": 32,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:21003"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 15,
+      "col": 11,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:19091"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 4,
+      "col": 8,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:19089"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 14,
+      "col": 3,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:21007"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-03",
+      "role": "train",
+      "row": 4,
+      "col": 5,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:19089"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 94,
+      "col": 218,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-04-R06"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 94,
+      "col": 219,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-04-R06"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 94,
+      "col": 220,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-04-R06"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 95,
+      "col": 218,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-04-R06"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 95,
+      "col": 219,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-04-R06"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 95,
+      "col": 220,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-04-R06"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 96,
+      "col": 218,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-04-R06"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 96,
+      "col": 219,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-04-R06"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 96,
+      "col": 220,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-04-R06"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 199,
+      "col": 564,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-04-R03"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 199,
+      "col": 565,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-04-R03"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 199,
+      "col": 566,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-04-R03"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 200,
+      "col": 564,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-04-R03"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 200,
+      "col": 565,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-04-R03"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 200,
+      "col": 566,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-04-R03"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 201,
+      "col": 564,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-04-R03"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 201,
+      "col": 565,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-04-R03"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 201,
+      "col": 566,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-04-R03"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 437,
+      "col": 163,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-04-R04"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 437,
+      "col": 164,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-04-R04"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 437,
+      "col": 165,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-04-R04"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 438,
+      "col": 163,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-04-R04"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 438,
+      "col": 164,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-04-R04"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 438,
+      "col": 165,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-04-R04"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 439,
+      "col": 163,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-04-R04"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 439,
+      "col": 164,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-04-R04"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 439,
+      "col": 165,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-04-R04"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 245,
+      "col": 366,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:2027"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 253,
+      "col": 3,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:4120"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 44,
+      "col": 178,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:2895",
+        "debris:2556"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 24,
+      "col": 630,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1618",
+        "debris:1471"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 245,
+      "col": 377,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1416"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 401,
+      "col": 219,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1420"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 290,
+      "col": 380,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1480"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 40,
+      "col": 187,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:2557"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 263,
+      "col": 355,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:2301"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 151,
+      "col": 433,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:2529",
+        "debris:2238"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 193,
+      "col": 72,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:36992"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 359,
+      "col": 269,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:2358",
+        "debris:26153"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 16,
+      "col": 633,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:1471"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 198,
+      "col": 70,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:36993"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 403,
+      "col": 105,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:2550",
+        "debris:25077"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 160,
+      "col": 435,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:2208"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 362,
+      "col": 269,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:26153"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 221,
+      "col": 377,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:2235",
+        "debris:2025"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 286,
+      "col": 437,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1837"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 192,
+      "col": 77,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:27206"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 283,
+      "col": 388,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1480"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 82,
+      "col": 24,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:4138"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 293,
+      "col": 388,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1480"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 168,
+      "col": 617,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:27131"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 361,
+      "col": 268,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:2358",
+        "debris:26153"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 302,
+      "col": 366,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:2505",
+        "debris:26165"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 74,
+      "col": 635,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1712"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 159,
+      "col": 435,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:2208"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 256,
+      "col": 5,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:4120",
+        "debris:3689"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 285,
+      "col": 372,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1480"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 303,
+      "col": 184,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:2268"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 42,
+      "col": 613,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1628"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 19,
+      "col": 630,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1618",
+        "debris:1471"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 598,
+      "col": 127,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:25107"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 163,
+      "col": 621,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:27134"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 297,
+      "col": 177,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:2556",
+        "debris:2263"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 293,
+      "col": 380,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1480"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 289,
+      "col": 374,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1480"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 214,
+      "col": 506,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:1672"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 296,
+      "col": 388,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1480"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 363,
+      "col": 272,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:26153"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 277,
+      "col": 436,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1840"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 44,
+      "col": 182,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:2556"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 192,
+      "col": 71,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:36992"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 359,
+      "col": 262,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:2358"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 170,
+      "col": 583,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:36955"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 515,
+      "col": 109,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:2801",
+        "debris:23001"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 283,
+      "col": 376,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1480"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 247,
+      "col": 365,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:2027"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 244,
+      "col": 371,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1416",
+        "debris:2027"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 288,
+      "col": 381,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1480"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 597,
+      "col": 141,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:26115"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 45,
+      "col": 180,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:2556"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-04",
+      "role": "train",
+      "row": 301,
+      "col": 182,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:2555",
+        "debris:2268"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 71,
+      "col": 134,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-05-R05"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 71,
+      "col": 135,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-05-R05"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 71,
+      "col": 136,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-05-R05"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 72,
+      "col": 134,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-05-R05"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 72,
+      "col": 135,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-05-R05"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 72,
+      "col": 136,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-05-R05"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 73,
+      "col": 134,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-05-R05"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 73,
+      "col": 135,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-05-R05"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 73,
+      "col": 136,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-05-R05"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 237,
+      "col": 343,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-05-R06"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 237,
+      "col": 344,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-05-R06"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 237,
+      "col": 345,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-05-R06"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 238,
+      "col": 343,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-05-R06"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 238,
+      "col": 344,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-05-R06"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 238,
+      "col": 345,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-05-R06"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 239,
+      "col": 343,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-05-R06"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 239,
+      "col": 344,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-05-R06"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 239,
+      "col": 345,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-05-R06"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 514,
+      "col": 272,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-05-R04"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 514,
+      "col": 273,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-05-R04"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 514,
+      "col": 274,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-05-R04"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 515,
+      "col": 272,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-05-R04"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 515,
+      "col": 273,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-05-R04"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 515,
+      "col": 274,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-05-R04"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 516,
+      "col": 272,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-05-R04"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 516,
+      "col": 273,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-05-R04"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 516,
+      "col": 274,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-05-R04"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 535,
+      "col": 28,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1399",
+        "debris:1"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 614,
+      "col": 28,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:1"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 504,
+      "col": 4,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1399",
+        "debris:1"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 512,
+      "col": 36,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1399",
+        "debris:1"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 127,
+      "col": 7,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:24908"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 574,
+      "col": 63,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:1"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 536,
+      "col": 13,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1399",
+        "debris:1"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 549,
+      "col": 13,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1399",
+        "debris:1"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 542,
+      "col": 3,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1399",
+        "debris:1"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 510,
+      "col": 9,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1399",
+        "debris:1"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 584,
+      "col": 32,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1399",
+        "debris:1"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 568,
+      "col": 45,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:1"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 591,
+      "col": 43,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:1"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 539,
+      "col": 40,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1399",
+        "debris:1"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 549,
+      "col": 21,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1399",
+        "debris:1"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 543,
+      "col": 35,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1399",
+        "debris:1"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 601,
+      "col": 34,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1399",
+        "debris:1"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 584,
+      "col": 23,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1399",
+        "debris:1"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 543,
+      "col": 51,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:1"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 576,
+      "col": 39,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1399",
+        "debris:1"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 570,
+      "col": 51,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:1"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 16,
+      "col": 321,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:15058"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 558,
+      "col": 13,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1399",
+        "debris:1"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 563,
+      "col": 60,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:1"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 523,
+      "col": 34,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1399",
+        "debris:1"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 563,
+      "col": 6,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1399",
+        "debris:1"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 548,
+      "col": 46,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:1"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 580,
+      "col": 64,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:1"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 607,
+      "col": 40,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:1"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 577,
+      "col": 20,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1399",
+        "debris:1"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 575,
+      "col": 36,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1399",
+        "debris:1"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 594,
+      "col": 14,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1399",
+        "debris:1"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 543,
+      "col": 7,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1399",
+        "debris:1"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 559,
+      "col": 3,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1399",
+        "debris:1"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 513,
+      "col": 43,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:1"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 547,
+      "col": 55,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:1"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 363,
+      "col": 9,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:7"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 578,
+      "col": 8,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1399",
+        "debris:1"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 599,
+      "col": 10,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:1"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 562,
+      "col": 28,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1399",
+        "debris:1"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 532,
+      "col": 20,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1399",
+        "debris:1"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 502,
+      "col": 27,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1399",
+        "debris:1"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 556,
+      "col": 34,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1399",
+        "debris:1"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 610,
+      "col": 6,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:1"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 515,
+      "col": 252,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:36567"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 582,
+      "col": 41,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1399",
+        "debris:1"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 575,
+      "col": 34,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1399",
+        "debris:1"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 530,
+      "col": 19,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1399",
+        "debris:1"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 532,
+      "col": 12,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1399",
+        "debris:1"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 530,
+      "col": 29,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1399",
+        "debris:1"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 581,
+      "col": 57,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:1"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 525,
+      "col": 40,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1399",
+        "debris:1"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 591,
+      "col": 16,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1399",
+        "debris:1"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-05",
+      "role": "validation",
+      "row": 590,
+      "col": 51,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:1"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 134,
+      "col": 79,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-06-R04"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 134,
+      "col": 80,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-06-R04"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 134,
+      "col": 81,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-06-R04"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 135,
+      "col": 79,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-06-R04"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 135,
+      "col": 80,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-06-R04"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 135,
+      "col": 81,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-06-R04"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 136,
+      "col": 79,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-06-R04"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 136,
+      "col": 80,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-06-R04"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 136,
+      "col": 81,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-06-R04"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 201,
+      "col": 149,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-06-R05"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 201,
+      "col": 150,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-06-R05"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 201,
+      "col": 151,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-06-R05"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 202,
+      "col": 149,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-06-R05"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 202,
+      "col": 150,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-06-R05"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 202,
+      "col": 151,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-06-R05"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 203,
+      "col": 149,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-06-R05"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 203,
+      "col": 150,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-06-R05"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 203,
+      "col": 151,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-06-R05"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 393,
+      "col": 41,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-06-R03"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 393,
+      "col": 42,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-06-R03"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 393,
+      "col": 43,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-06-R03"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 394,
+      "col": 41,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-06-R03"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 394,
+      "col": 42,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-06-R03"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 394,
+      "col": 43,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-06-R03"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 395,
+      "col": 41,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-06-R03"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 395,
+      "col": 42,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-06-R03"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 395,
+      "col": 43,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-06-R03"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 148,
+      "col": 249,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:14739",
+        "debris:13479"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 346,
+      "col": 226,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:15954",
+        "debris:21796"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 509,
+      "col": 183,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:7845"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 478,
+      "col": 217,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:7873"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 443,
+      "col": 233,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:8028"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 410,
+      "col": 89,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:21827"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 190,
+      "col": 335,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:16067"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 411,
+      "col": 253,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:8044"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 543,
+      "col": 190,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:8001"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 239,
+      "col": 344,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:8369"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 210,
+      "col": 343,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:16022",
+        "debris:8380"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 17,
+      "col": 196,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:14746",
+        "debris:23310"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 480,
+      "col": 213,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:7869"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 345,
+      "col": 10,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:14902"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 575,
+      "col": 85,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:14728",
+        "debris:25350"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 422,
+      "col": 238,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:8038"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 180,
+      "col": 355,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:21799"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 585,
+      "col": 94,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:15251"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 144,
+      "col": 250,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:14739",
+        "debris:13479"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 231,
+      "col": 346,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:14732"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 42,
+      "col": 177,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:21694",
+        "debris:13465"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 116,
+      "col": 353,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:16101"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 568,
+      "col": 192,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:15279",
+        "debris:7794"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 258,
+      "col": 326,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:16006",
+        "debris:8368"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 536,
+      "col": 198,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:15329"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 519,
+      "col": 178,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:15309",
+        "debris:7829"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 520,
+      "col": 171,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:15309",
+        "debris:7829"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 600,
+      "col": 61,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:14972"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 411,
+      "col": 86,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:13671"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 221,
+      "col": 241,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:16016",
+        "debris:8374"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 148,
+      "col": 367,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:16085",
+        "debris:21801"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 574,
+      "col": 89,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:25350"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 464,
+      "col": 227,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:7883"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 68,
+      "col": 411,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:16112",
+        "debris:8472"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 280,
+      "col": 312,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:8356"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 263,
+      "col": 325,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:8359"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 117,
+      "col": 379,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:8459"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 467,
+      "col": 219,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:7874"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 275,
+      "col": 323,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:15995",
+        "debris:21798"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 601,
+      "col": 128,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:7743"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 131,
+      "col": 369,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:16090",
+        "debris:8453"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 624,
+      "col": 136,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:7723"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 585,
+      "col": 111,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:7762"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 482,
+      "col": 212,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:7869"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 118,
+      "col": 379,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:8459"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 385,
+      "col": 215,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:8297"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 570,
+      "col": 186,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:15281",
+        "debris:7796"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 533,
+      "col": 193,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:7835"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 350,
+      "col": 221,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:15954",
+        "debris:21796"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 564,
+      "col": 103,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:7824"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 598,
+      "col": 133,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:7744"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 415,
+      "col": 248,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:15579"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 419,
+      "col": 50,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:13669"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-06",
+      "role": "test",
+      "row": 236,
+      "col": 342,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:14732",
+        "debris:8370"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-07",
+      "role": "test",
+      "row": 39,
+      "col": 73,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-07-R06"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-07",
+      "role": "test",
+      "row": 39,
+      "col": 74,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-07-R06"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-07",
+      "role": "test",
+      "row": 39,
+      "col": 75,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-07-R06"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-07",
+      "role": "test",
+      "row": 40,
+      "col": 73,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-07-R06"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-07",
+      "role": "test",
+      "row": 40,
+      "col": 74,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-07-R06"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-07",
+      "role": "test",
+      "row": 40,
+      "col": 75,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-07-R06"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-07",
+      "role": "test",
+      "row": 41,
+      "col": 73,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-07-R06"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-07",
+      "role": "test",
+      "row": 41,
+      "col": 74,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-07-R06"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-07",
+      "role": "test",
+      "row": 41,
+      "col": 75,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-07-R06"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-07",
+      "role": "test",
+      "row": 409,
+      "col": 126,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-07-R05"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-07",
+      "role": "test",
+      "row": 409,
+      "col": 127,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-07-R05"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-07",
+      "role": "test",
+      "row": 409,
+      "col": 128,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-07-R05"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-07",
+      "role": "test",
+      "row": 410,
+      "col": 126,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-07-R05"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-07",
+      "role": "test",
+      "row": 410,
+      "col": 127,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-07-R05"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-07",
+      "role": "test",
+      "row": 410,
+      "col": 128,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-07-R05"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-07",
+      "role": "test",
+      "row": 411,
+      "col": 126,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-07-R05"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-07",
+      "role": "test",
+      "row": 411,
+      "col": 127,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-07-R05"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-07",
+      "role": "test",
+      "row": 411,
+      "col": 128,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "SH1-EXP-07-R05"
+      ]
+    },
+    {
+      "region_id": "SH1-EXP-07",
+      "role": "test",
+      "row": 195,
+      "col": 149,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:18267",
+        "debris:10447"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-07",
+      "role": "test",
+      "row": 59,
+      "col": 158,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:10485"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-07",
+      "role": "test",
+      "row": 79,
+      "col": 312,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:15825"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-07",
+      "role": "test",
+      "row": 424,
+      "col": 218,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:15534"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-07",
+      "role": "test",
+      "row": 146,
+      "col": 403,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:15483"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-07",
+      "role": "test",
+      "row": 103,
+      "col": 355,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:15824",
+        "debris:21791"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-07",
+      "role": "test",
+      "row": 27,
+      "col": 449,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:15465",
+        "debris:21783"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-07",
+      "role": "test",
+      "row": 487,
+      "col": 158,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:36587"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-07",
+      "role": "test",
+      "row": 79,
+      "col": 409,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:15471",
+        "debris:21788"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-07",
+      "role": "test",
+      "row": 68,
+      "col": 407,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:15472",
+        "debris:21787"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-07",
+      "role": "test",
+      "row": 33,
+      "col": 455,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:15465",
+        "debris:21783"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-07",
+      "role": "test",
+      "row": 548,
+      "col": 106,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:36585"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-07",
+      "role": "test",
+      "row": 102,
+      "col": 359,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:15824",
+        "debris:21791"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-07",
+      "role": "test",
+      "row": 487,
+      "col": 154,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:36587"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-07",
+      "role": "test",
+      "row": 488,
+      "col": 154,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:36587"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-07",
+      "role": "test",
+      "row": 491,
+      "col": 150,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:36586"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-07",
+      "role": "test",
+      "row": 26,
+      "col": 448,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:15465",
+        "debris:21783"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-07",
+      "role": "test",
+      "row": 409,
+      "col": 229,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:16185"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-07",
+      "role": "test",
+      "row": 70,
+      "col": 407,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:15472",
+        "debris:21787"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-07",
+      "role": "test",
+      "row": 589,
+      "col": 69,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:16182",
+        "debris:21802"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-07",
+      "role": "test",
+      "row": 488,
+      "col": 148,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:36586"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-07",
+      "role": "test",
+      "row": 88,
+      "col": 339,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:15478",
+        "debris:7952"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-07",
+      "role": "test",
+      "row": 23,
+      "col": 225,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:18305",
+        "debris:21837"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-07",
+      "role": "test",
+      "row": 569,
+      "col": 74,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:16184",
+        "debris:21804"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-07",
+      "role": "test",
+      "row": 79,
+      "col": 319,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:15826"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-07",
+      "role": "test",
+      "row": 98,
+      "col": 47,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:18296",
+        "debris:10477"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-07",
+      "role": "test",
+      "row": 409,
+      "col": 225,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:16185"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-07",
+      "role": "test",
+      "row": 33,
+      "col": 458,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:15465",
+        "debris:21783"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-07",
+      "role": "test",
+      "row": 124,
+      "col": 26,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:15019"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-07",
+      "role": "test",
+      "row": 425,
+      "col": 217,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:15534"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-07",
+      "role": "test",
+      "row": 83,
+      "col": 425,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:15474",
+        "debris:21789"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-07",
+      "role": "test",
+      "row": 124,
+      "col": 25,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:15019"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-07",
+      "role": "test",
+      "row": 78,
+      "col": 313,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:15825"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-07",
+      "role": "test",
+      "row": 19,
+      "col": 221,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:18305",
+        "debris:21838"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-07",
+      "role": "test",
+      "row": 116,
+      "col": 70,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:23733"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "SH1-EXP-07",
+      "role": "test",
+      "row": 427,
+      "col": 217,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:15534"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "PILOT-ANCHOR",
+      "role": "train",
+      "row": 280,
+      "col": 316,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "PILOT-ANCHOR-R04"
+      ]
+    },
+    {
+      "region_id": "PILOT-ANCHOR",
+      "role": "train",
+      "row": 280,
+      "col": 317,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "PILOT-ANCHOR-R04"
+      ]
+    },
+    {
+      "region_id": "PILOT-ANCHOR",
+      "role": "train",
+      "row": 280,
+      "col": 318,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "PILOT-ANCHOR-R04"
+      ]
+    },
+    {
+      "region_id": "PILOT-ANCHOR",
+      "role": "train",
+      "row": 281,
+      "col": 316,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "PILOT-ANCHOR-R04"
+      ]
+    },
+    {
+      "region_id": "PILOT-ANCHOR",
+      "role": "train",
+      "row": 281,
+      "col": 317,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "PILOT-ANCHOR-R04"
+      ]
+    },
+    {
+      "region_id": "PILOT-ANCHOR",
+      "role": "train",
+      "row": 281,
+      "col": 318,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "PILOT-ANCHOR-R04"
+      ]
+    },
+    {
+      "region_id": "PILOT-ANCHOR",
+      "role": "train",
+      "row": 282,
+      "col": 316,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "PILOT-ANCHOR-R04"
+      ]
+    },
+    {
+      "region_id": "PILOT-ANCHOR",
+      "role": "train",
+      "row": 282,
+      "col": 317,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "PILOT-ANCHOR-R04"
+      ]
+    },
+    {
+      "region_id": "PILOT-ANCHOR",
+      "role": "train",
+      "row": 282,
+      "col": 318,
+      "reference_label_proposal": 0,
+      "object_ids": [],
+      "negative_review_group_ids": [
+        "PILOT-ANCHOR-R04"
+      ]
+    },
+    {
+      "region_id": "PILOT-ANCHOR",
+      "role": "train",
+      "row": 574,
+      "col": 23,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:26790"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "PILOT-ANCHOR",
+      "role": "train",
+      "row": 292,
+      "col": 68,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1928"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "PILOT-ANCHOR",
+      "role": "train",
+      "row": 11,
+      "col": 479,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:25055"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "PILOT-ANCHOR",
+      "role": "train",
+      "row": 560,
+      "col": 132,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:26260"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "PILOT-ANCHOR",
+      "role": "train",
+      "row": 509,
+      "col": 161,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:26287"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "PILOT-ANCHOR",
+      "role": "train",
+      "row": 179,
+      "col": 357,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1948",
+        "debris:1782"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "PILOT-ANCHOR",
+      "role": "train",
+      "row": 145,
+      "col": 270,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:2009"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "PILOT-ANCHOR",
+      "role": "train",
+      "row": 565,
+      "col": 54,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:36003"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "PILOT-ANCHOR",
+      "role": "train",
+      "row": 558,
+      "col": 8,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1493"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "PILOT-ANCHOR",
+      "role": "train",
+      "row": 362,
+      "col": 284,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:26811"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "PILOT-ANCHOR",
+      "role": "train",
+      "row": 588,
+      "col": 9,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:26796"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "PILOT-ANCHOR",
+      "role": "train",
+      "row": 6,
+      "col": 489,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:2287",
+        "debris:2054"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "PILOT-ANCHOR",
+      "role": "train",
+      "row": 552,
+      "col": 9,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1492",
+        "debris:26790"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "PILOT-ANCHOR",
+      "role": "train",
+      "row": 92,
+      "col": 249,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:2025"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "PILOT-ANCHOR",
+      "role": "train",
+      "row": 134,
+      "col": 423,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1935"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "PILOT-ANCHOR",
+      "role": "train",
+      "row": 511,
+      "col": 135,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1401"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "PILOT-ANCHOR",
+      "role": "train",
+      "row": 203,
+      "col": 429,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:2411"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "PILOT-ANCHOR",
+      "role": "train",
+      "row": 570,
+      "col": 56,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:36003"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "PILOT-ANCHOR",
+      "role": "train",
+      "row": 504,
+      "col": 148,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:37217"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "PILOT-ANCHOR",
+      "role": "train",
+      "row": 174,
+      "col": 361,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1950",
+        "debris:25021"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "PILOT-ANCHOR",
+      "role": "train",
+      "row": 129,
+      "col": 282,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:2002",
+        "debris:25029"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "PILOT-ANCHOR",
+      "role": "train",
+      "row": 3,
+      "col": 483,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:2317",
+        "debris:25054"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "PILOT-ANCHOR",
+      "role": "train",
+      "row": 573,
+      "col": 17,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:26791"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "PILOT-ANCHOR",
+      "role": "train",
+      "row": 571,
+      "col": 15,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:26791"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "PILOT-ANCHOR",
+      "role": "train",
+      "row": 583,
+      "col": 10,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:26793"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "PILOT-ANCHOR",
+      "role": "train",
+      "row": 571,
+      "col": 111,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:26255"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "PILOT-ANCHOR",
+      "role": "train",
+      "row": 562,
+      "col": 86,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:26250"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "PILOT-ANCHOR",
+      "role": "train",
+      "row": 294,
+      "col": 339,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:26327"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "PILOT-ANCHOR",
+      "role": "train",
+      "row": 583,
+      "col": 7,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:26793"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "PILOT-ANCHOR",
+      "role": "train",
+      "row": 514,
+      "col": 109,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1674",
+        "debris:1520"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "PILOT-ANCHOR",
+      "role": "train",
+      "row": 566,
+      "col": 58,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:36003"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "PILOT-ANCHOR",
+      "role": "train",
+      "row": 35,
+      "col": 398,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:2443",
+        "debris:2168"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "PILOT-ANCHOR",
+      "role": "train",
+      "row": 140,
+      "col": 283,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:2012"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "PILOT-ANCHOR",
+      "role": "train",
+      "row": 565,
+      "col": 22,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1492",
+        "debris:26790"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "PILOT-ANCHOR",
+      "role": "train",
+      "row": 334,
+      "col": 209,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "source:1574",
+        "debris:26805"
+      ],
+      "negative_review_group_ids": []
+    },
+    {
+      "region_id": "PILOT-ANCHOR",
+      "role": "train",
+      "row": 514,
+      "col": 163,
+      "reference_label_proposal": 1,
+      "object_ids": [
+        "debris:26287"
+      ],
+      "negative_review_group_ids": []
+    }
+  ],
+  "warnings": [
+    "Artificial class ratio is not real prevalence",
+    "Pixels within each patch/object are correlated",
+    "Use frozen region split, no pixel random split",
+    "Proposals require explicit weak-reference interpretation"
+  ],
+  "feature_sensor": "Sentinel-1 VV and SRTM terrain",
+  "training_performed": false,
+  "attribution": "GNS Kaikoura landslide inventory V3, DOI 10.17603/ds2-rpyg-0h84 (CC BY 4.0 metadata); derived weak sampling locations, not full inventory",
+  "packaging_note": "Satellite feature values omitted. Frozen locations, IDs, groups and roles retained; no human review repeated."
+}

@@ -1,0 +1,2 @@
+# Preserve byte hashes in provenance across Windows/Linux checkouts.
+* -text

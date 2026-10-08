@@ -1,0 +1,1072 @@
+{
+  "packaged_date_local": "2026-10-08",
+  "original_experiments_modified": false,
+  "satellite_arrays_and_weights_included": false,
+  "historical_sources": [
+    {
+      "source_relative_to_original_testdata": "rf_vv/frozen_data_design.json",
+      "source_sha256": "78f435ad8d75610d6192a3964b7c2005271c6403d977dffa765410e8e456bec8",
+      "packaged_path": "configs/vv_design.json",
+      "packaged_sha256": "2b1047b8a36c34bc8cd81378c82e1dc57eb7a22f40674c0bd5b62101478131f1",
+      "changes": [
+        "Removed workstation path; updated stale progress status only; geometry/bands unchanged"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "rf_vv/spatial_split_v1.json",
+      "source_sha256": "6323ffed805ff5b649377e20b291e050571e8b08c4f3ec3c677733c7668f9249",
+      "packaged_path": "configs/spatial_split.json",
+      "packaged_sha256": "9cdc12679f4e92f4e30538afa3b23b62b041815e4006a6d298b44f46e88e4fa1",
+      "changes": [
+        "Linked sanitized design hash; preserved original hash and every assignment"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "rf_vv/v3_reference_preparation/20261007T225634Z/VV_feature_point_proposals_NOT_APPROVED.json",
+      "source_sha256": "ddf2b9c734d85950be3c318ff571f421a604d3f5fab1b855b367d27d655722da",
+      "packaged_path": "configs/reviewed_sample_proposals.json",
+      "packaged_sha256": "df78e5a94aca561712e7948cbc01b131bf9b0a05ed20a064a6db710a97e84f4c",
+      "changes": [
+        "Removed satellite feature values and unused metadata; retained all frozen sampling records"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "rf_vv/02_export_vv.js",
+      "source_sha256": "ae004a493de307ceeddf4f4968b11a44a3f62d81eb3a44e9f0c4055d2129bd1a",
+      "packaged_path": "gee/export_vv.js",
+      "packaged_sha256": "ae004a493de307ceeddf4f4968b11a44a3f62d81eb3a44e9f0c4055d2129bd1a",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "rf_vv/01_prepare_exports.py",
+      "source_sha256": "33e0f8a5cc371fda0573dbe32dc7cc87be61d8f23268651771abd96a6f4305f8",
+      "packaged_path": "experiments/rf_vv/scripts/01_prepare_exports.py",
+      "packaged_sha256": "5691fd53b263ac3a9fe3a019f7d2ad00fcaadeb3271fec02788ac85a0e21e4ea",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "rf_vv/02_export_vv.js",
+      "source_sha256": "ae004a493de307ceeddf4f4968b11a44a3f62d81eb3a44e9f0c4055d2129bd1a",
+      "packaged_path": "experiments/rf_vv/scripts/02_export_vv.js",
+      "packaged_sha256": "ae004a493de307ceeddf4f4968b11a44a3f62d81eb3a44e9f0c4055d2129bd1a",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "rf_vv/03_prepare_local_pilot.py",
+      "source_sha256": "872f314cba9650d230bda9390ca02dd727524788dbb94567c0ebb520a3dcfb55",
+      "packaged_path": "experiments/rf_vv/scripts/03_prepare_local_pilot.py",
+      "packaged_sha256": "00c333f556a390eb30ea06d7bf121e65d457c327c5963314481c32e6a1b6d97c",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "rf_vv/04_validate_local_pilot.py",
+      "source_sha256": "7dde14bcb708ae678961dc0f0704dee9520f666b26b28ee9b127c529a8ef6e43",
+      "packaged_path": "experiments/rf_vv/scripts/04_validate_local_pilot.py",
+      "packaged_sha256": "f4792f275644feefe82613de7651cf92b2b7bc3d4f19250e341e4847c244c75d",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "rf_vv/05_download_vv_regions.py",
+      "source_sha256": "67cb3a43ee9fbf84fc6f89f9bc21c70838c4a2eb585ffa3db37b5eabfecf0c98",
+      "packaged_path": "experiments/rf_vv/scripts/05_download_vv_regions.py",
+      "packaged_sha256": "4fafc491c6c42130447d2424b615c3b04030a5b9b6f4c2c989670774a611feeb",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "rf_vv/06_prepare_vv_regions.py",
+      "source_sha256": "b2e1c5c5683b48702d9c19c811f2469d82240d65946f26bce0fcd4e95f560cca",
+      "packaged_path": "experiments/rf_vv/scripts/06_prepare_vv_regions.py",
+      "packaged_sha256": "83d5114c9b89b31a0e96aa14d430b5ff273730b756dd063b21c36cc000331df1",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "rf_vv/07_validate_vv_regions.py",
+      "source_sha256": "c161c4f84ab8a058ad71e4861e1ac42e1551e0e3da63563e804187c605d0ee2f",
+      "packaged_path": "experiments/rf_vv/scripts/07_validate_vv_regions.py",
+      "packaged_sha256": "890db64512d6e263631e3223966737b769486eba058d3755dc525e56a6ae123a",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "rf_vv/08_download_gns_points.py",
+      "source_sha256": "a25f5d0252fd36dd89ca5ef423d73944bb7b1a48a8227e6c55b17401fe4a7b77",
+      "packaged_path": "experiments/rf_vv/scripts/08_download_gns_points.py",
+      "packaged_sha256": "d7a58ed4ef2238b10a3d7c5e60f6778f6912081fa4a4799d89f7d5c9f22fa4db",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "rf_vv/09_audit_labels_alignment.py",
+      "source_sha256": "ea4bb3c052b9e5645a508ddc141594f2d6d1bcd238eac9438a8540d9b1dc9ea8",
+      "packaged_path": "experiments/rf_vv/scripts/09_audit_labels_alignment.py",
+      "packaged_sha256": "e803e33c9365f6363be66723d78f83f261f25bb8d8b5972801d5419026045245",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "rf_vv/10_validate_audit.py",
+      "source_sha256": "9873c6abe45ce6adbb7df354ae282b2980d3b48704e8de2584c8e1b1c75e86c6",
+      "packaged_path": "experiments/rf_vv/scripts/10_validate_audit.py",
+      "packaged_sha256": "43379b34f992e636302d73e2ef32344bc08279912efbd069d811fd9e553ba6c2",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "rf_vv/11_discover_official_reference.py",
+      "source_sha256": "3e40abfae6288f09ae759ebe1f9b1534d0972898f7c053eb85e65a279f8057ac",
+      "packaged_path": "experiments/rf_vv/scripts/11_discover_official_reference.py",
+      "packaged_sha256": "452e5a842e2d75779d3c79b6da39b1c75c86dfa6a7e9b1c258f0b56d87dca32d",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "rf_vv/12_list_v3_public_files.py",
+      "source_sha256": "78f6c66be0e75c877148cc0befda3d22c198f148a7638ea8f84c2626ecba5319",
+      "packaged_path": "experiments/rf_vv/scripts/12_list_v3_public_files.py",
+      "packaged_sha256": "735844378f9ff88eac89a371bb7c31e26ba955a7d3a372439e8f4983890be179",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "rf_vv/13_download_v3_polygons.py",
+      "source_sha256": "83f6d6fb68c0bd4123bd4fa3dead427e1754521282b04d32249d258b1c9a9c78",
+      "packaged_path": "experiments/rf_vv/scripts/13_download_v3_polygons.py",
+      "packaged_sha256": "82c5b610ff26fceade0e7b2325140750dad59c4652758a9fc2631ccbc35dfabb",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "rf_vv/14_prepare_v3_reference.py",
+      "source_sha256": "3da93b26544eaa9e5af0d250586fc2dffe2a53ba9cc538f7aaae0e6b68260519",
+      "packaged_path": "experiments/rf_vv/scripts/14_prepare_v3_reference.py",
+      "packaged_sha256": "5e41c8a52ddf4a8da1e973caa795cd55839da12cefcfb9837d137e8c00400182",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "rf_vv/15_validate_v3_preparation.py",
+      "source_sha256": "1de97aeb89efd9eb72ac083c5714731e4136dd188608586b985000fd4c82be98",
+      "packaged_path": "experiments/rf_vv/scripts/15_validate_v3_preparation.py",
+      "packaged_sha256": "9442ae9de286472272137157323046d6796eac3d682e5d744dac2ede892db278",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "rf_vv/16_write_v3_report.py",
+      "source_sha256": "ff58de32537b1f0d00bea72b359ec413e3c05f5619f2ff5abecf25805db42a82",
+      "packaged_path": "experiments/rf_vv/scripts/16_write_v3_report.py",
+      "packaged_sha256": "8a43c77252be23bcf671c01246c0ac0a2927a65161506160d2773200e041f957",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "bbunet/acquire_and_inspect_checkpoint.py",
+      "source_sha256": "fee4b20b54275b027249d63b2633ac6c44aaeebcdde6bc9da8aa7b4f5713c5e9",
+      "packaged_path": "experiments/bbunet/scripts/acquire_and_inspect_checkpoint.py",
+      "packaged_sha256": "52c56adbf8b815f85b54bbefc96febb67d230ad8d3e11ae900be924508d52111",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "bbunet/acquire_cloud_weights.py",
+      "source_sha256": "e305c593c5f2be8c582d19658caafe456dd8e22b708679fe6f3924ad18dc3c78",
+      "packaged_path": "experiments/bbunet/scripts/acquire_cloud_weights.py",
+      "packaged_sha256": "a4b6d88a7fdfa83c68a2331ff1df21b7a5f50f8091eff1b534b5f2a51d19de3e",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "bbunet/check_checkpoint_model.py",
+      "source_sha256": "cc5edcbf9ea0314f846204f3f950edda5de604b9f3a44030945c8544173a582f",
+      "packaged_path": "experiments/bbunet/scripts/check_checkpoint_model.py",
+      "packaged_sha256": "059855629c276f6f8640b24c12c8ee2479caa56ea68e4d3d0dd033d4861b40e4",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "bbunet/download_expanded_terrain.py",
+      "source_sha256": "d5410e5eed3572433c4a94490b071073d1be203da531d9e46a52e4ee24449c00",
+      "packaged_path": "experiments/bbunet/scripts/download_expanded_terrain.py",
+      "packaged_sha256": "4458a99e5f67d683db58971d97a931fdb56de89074ac26fa61a2d7d0e4ac4cff",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "bbunet/freeze_expanded_test.py",
+      "source_sha256": "bdccd43f48a64c3ef764c826d70cd384ef328340cb5cc8e5be5a46973175d2cb",
+      "packaged_path": "experiments/bbunet/scripts/freeze_expanded_test.py",
+      "packaged_sha256": "59c31ea4b16d658eb1a156974c404c462275a0c57eef6272c4646b6154760aeb",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "bbunet/prepare_l2a_pilot.py",
+      "source_sha256": "b29ea0361b43732501391bac4598d2f65d31a047ebb803f24ef385112253fbe4",
+      "packaged_path": "experiments/bbunet/scripts/prepare_l2a_pilot.py",
+      "packaged_sha256": "25cfd92a62b50c96a5845df74d03baad898d5a5a902287eafdb64bf336bc871d",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "bbunet/prepare_terrain_and_model_inputs.py",
+      "source_sha256": "8b8c8b4c527ad653d763cb111f52dccc7fd36e6d4aee0e58ef5e07d63fc0932c",
+      "packaged_path": "experiments/bbunet/scripts/prepare_terrain_and_model_inputs.py",
+      "packaged_sha256": "cd18a1126696238c8cf83f62cae8b4ea8368edb32b7dedddb97b221951f01d72",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "bbunet/probe_official_l2a.py",
+      "source_sha256": "4d8c91af71c9a23ff2cd046d07cccf6706716dec360015e7b0ad77b6b8452c3c",
+      "packaged_path": "experiments/bbunet/scripts/probe_official_l2a.py",
+      "packaged_sha256": "9dade27cb2a0413b5f070e291db281ecb36a8101635944270e53ceae03ae0377",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "bbunet/richdem_numpy_audit.py",
+      "source_sha256": "6d6d92366e532e73ffdd1100c67965221d1bcf4d6a2e1b6e2184c047a675537e",
+      "packaged_path": "experiments/bbunet/scripts/richdem_numpy_audit.py",
+      "packaged_sha256": "33d03fb9422e551c7703746117ce127cfb9b35a6851e7562a9267aad86f9df1c",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "bbunet/run_author_cloud_screen.py",
+      "source_sha256": "fad1288f4b92c534b13d3fd0160248a86e696ad4347fc69198956ce7b6cc7697",
+      "packaged_path": "experiments/bbunet/scripts/run_author_cloud_screen.py",
+      "packaged_sha256": "d89037d6e24cf4b3b46aecc03d0d39a007ef8dffec96e6645f9e7bd9dc5eea1d",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "bbunet/run_expanded_test.py",
+      "source_sha256": "d06bf14d477b63316a37eddc34f203d8dbb14e80ec69baed9e3e1d341cfc7859",
+      "packaged_path": "experiments/bbunet/scripts/run_expanded_test.py",
+      "packaged_sha256": "2c2324d66a234cc9b0ebf2135bef88031095a4aa39247faa847bcae7fe9a490d",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "bbunet/run_frozen_pilot.py",
+      "source_sha256": "3e2d38a406e175697257ca92edcd263d5b7cc43871d9b111267580cbd726c27f",
+      "packaged_path": "experiments/bbunet/scripts/run_frozen_pilot.py",
+      "packaged_sha256": "677b46f9123d5b264763b1939ed1e6a13aec786c7665aed34535044ababc9330",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "bbunet/summarize_expanded_test.py",
+      "source_sha256": "ce7dda7f08e8e90f3e430e5bb03f1cc0296c543de2bc2e2ffc7b9fe433e4d193",
+      "packaged_path": "experiments/bbunet/scripts/summarize_expanded_test.py",
+      "packaged_sha256": "623cdab8192468e2b08cddb2e004b1873b61560db18ae6a7e4815da88a449171",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "bbunet/validate_expanded_test.py",
+      "source_sha256": "0aa8784feccb9a05b6f90909b04326ee94025e32164dac596d5df9573c0ac4e2",
+      "packaged_path": "experiments/bbunet/scripts/validate_expanded_test.py",
+      "packaged_sha256": "f0a36f77425da16b9d48b3d019781797e7f2be3f8bba707e33207c87517789f1",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "bbunet/validate_l2a_stage.py",
+      "source_sha256": "bf0e9f0f909f6b868608bfaf7cba8b420ecb87dee11dea0739f86e5d9af4325c",
+      "packaged_path": "experiments/bbunet/scripts/validate_l2a_stage.py",
+      "packaged_sha256": "75de77ea5d7d450ce0aa43b02371ac6b4d10f746d3d012a5c78652b46d560036",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "bbunet/validate_pilot_outputs.py",
+      "source_sha256": "ef3bbd3fc6728b56693f46e5acfe791736758e279a2becda16a4e4a164bc2e30",
+      "packaged_path": "experiments/bbunet/scripts/validate_pilot_outputs.py",
+      "packaged_sha256": "d68866051f01e060ca240ae7b5c83e4b1df141f85c6c7227af707e42f37ce589",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "bbunet/verify_l2a_archive.py",
+      "source_sha256": "7f5911cd7beb5f42e5aa5dfb3ef16c9231ed82a447d35420ec7c7d796b3d5ef2",
+      "packaged_path": "experiments/bbunet/scripts/verify_l2a_archive.py",
+      "packaged_sha256": "275a872ab1b3f1706828884195cc7535b1e42a6411b31ba792dab340f3266b7a",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "cnnm_all_006/audit_and_load.py",
+      "source_sha256": "96ff9766e03e035d6e7f82e2b15e0dca67f4dc289776a2e89cb448825ffedf93",
+      "packaged_path": "experiments/cnnm_all_006/scripts/audit_and_load.py",
+      "packaged_sha256": "a513204d1c87ca697b5d601b20e87ad7fe2dca6994b8b6324a62587f9dd0cb40",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "cnnm_all_006/audit_preprocessing_sources.py",
+      "source_sha256": "6ebe05754d901fc8d8affca76ee48b495cc159c3439a30e51a3205bc9b135f3f",
+      "packaged_path": "experiments/cnnm_all_006/scripts/audit_preprocessing_sources.py",
+      "packaged_sha256": "e391fb4acc3b623504293d4fef8a4896a32416c36e5b8fb9990277bf167a9f2a",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "cnnm_all_006/audit_terrain_derivatives.py",
+      "source_sha256": "2f51a3718af070587b55d53839c0d2be4f64880bfc4a7481d57621d5907cf160",
+      "packaged_path": "experiments/cnnm_all_006/scripts/audit_terrain_derivatives.py",
+      "packaged_sha256": "9c4dd1a8fc3df241219e39f749e79768c184b3b3009f6c0a98e84ded1db0cb7f",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "cnnm_all_006/fetch_official_assets.py",
+      "source_sha256": "422a429095fdd676220756abdf69cb3857496eb59a82a1b05cd19276c08b2243",
+      "packaged_path": "experiments/cnnm_all_006/scripts/fetch_official_assets.py",
+      "packaged_sha256": "c410cc520bea506e0810ca576e599417836b3ab266a705c71d658e6e040ad9b9",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "cnnm_all_006/fetch_preprocessing_evidence.py",
+      "source_sha256": "0076b54b39831db42e6b37c05592d4709f92205df40f59b2798bc9cd3b10fac5",
+      "packaged_path": "experiments/cnnm_all_006/scripts/fetch_preprocessing_evidence.py",
+      "packaged_sha256": "adafec59d81ebe86d8e054b0487ce6ac6e9fb412c451010e3f462b021676c23a",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "cnnm_all_006/fetch_sample_assets.py",
+      "source_sha256": "47d932a9f680ce73ce80f165bf71e08ce5b1837c78e17621b94c8916d85176f3",
+      "packaged_path": "experiments/cnnm_all_006/scripts/fetch_sample_assets.py",
+      "packaged_sha256": "4496d44d3ec693dc35f9b9e13c1016bead1287405a0350c3db603770626f6090",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "cnnm_all_006/plot_and_verify.py",
+      "source_sha256": "cfc0735700b0f3aab983a6ff1613f0e5772e74d299b5f1ac74d80ad7623d5d9d",
+      "packaged_path": "experiments/cnnm_all_006/scripts/plot_and_verify.py",
+      "packaged_sha256": "5866ca457be77dec7dd0b980e68e38810a045c765409dc72bb1aae4e39298541",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "cnnm_all_006/prepare_author_smoke.py",
+      "source_sha256": "b0039c4196561397999f130826b9a94ea91592712309c3560022879d788ddad8",
+      "packaged_path": "experiments/cnnm_all_006/scripts/prepare_author_smoke.py",
+      "packaged_sha256": "066352c974ef835e4c3ae3ecb2ce5bc5d00ecc235cd0d6c9c78b9ba3d39d957f",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "cnnm_all_006/prepare_pilot_exploration.py",
+      "source_sha256": "4386ef9b7b43f61d1870a8aaf787a6272f32992d5f5b8fc5307efe112ad03cff",
+      "packaged_path": "experiments/cnnm_all_006/scripts/prepare_pilot_exploration.py",
+      "packaged_sha256": "e252212c196de858fdc131d65d8b11b5dae021c24deb1670f7fd2ddd35973130",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "cnnm_all_006/prepare_terrain_aligned_pilot.py",
+      "source_sha256": "3ac7053fa10d78249661f10bf7fe072e77afbd1f522a949551e1818d543feb89",
+      "packaged_path": "experiments/cnnm_all_006/scripts/prepare_terrain_aligned_pilot.py",
+      "packaged_sha256": "301f54e1595f99d25743190e26d536269bcffc5e965c666158736a086be6f592",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "cnnm_all_006/run_author_smoke.py",
+      "source_sha256": "2ac42f76dbe2cc630fbe5c71b9a4570425deee7d50efe0a0a7ae3f38902bb832",
+      "packaged_path": "experiments/cnnm_all_006/scripts/run_author_smoke.py",
+      "packaged_sha256": "2e3c8a5f9cb8ddfa90f35c105dfde256677f86f8899d4cb8eb3912097bc98ead",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "cnnm_all_006/run_pilot_exploration.py",
+      "source_sha256": "bd1a7d8b77469ae17e9185b6db46fff02af9fc5c73bbedb643d243cf2c95224c",
+      "packaged_path": "experiments/cnnm_all_006/scripts/run_pilot_exploration.py",
+      "packaged_sha256": "f42ab713fb7f842db9684a730ba46b70f8bfc97c322c08235d8a0fe2f56cd583",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "cnnm_all_006/run_terrain_aligned_pilot.py",
+      "source_sha256": "c13c1991d0daccb06a2b3f2b1aa6a23304bd31da7492a046d1a41c2be100bb13",
+      "packaged_path": "experiments/cnnm_all_006/scripts/run_terrain_aligned_pilot.py",
+      "packaged_sha256": "b28954f93e5e3af280a86b70b48ea6bfb8ab670e57df8c3bdc65ae1839249e2d",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "cnnm_all_006/verify_preprocessing_audit.py",
+      "source_sha256": "f9d1fe5076ca88cd839aa86fc5bdf8844fff36e855a5d3fa70861d1fa25698f8",
+      "packaged_path": "experiments/cnnm_all_006/scripts/verify_preprocessing_audit.py",
+      "packaged_sha256": "c0c0982b1136b498dfaa2e22950187b5521aa38b992096af2e472b7d24466b79",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "sar_lra/01_sumatra_inventory.js",
+      "source_sha256": "5496ec8839681fcc90d3a48bf7fd77bfd6a3d4f70904f5d7ce6e5cbbca9e6340",
+      "packaged_path": "experiments/sar_lra/scripts/01_sumatra_inventory.js",
+      "packaged_sha256": "3b3c39310d4648320ca3ff2491af56a60c76324f25658932d0b64abe3da7d2f3",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "sar_lra/02_sumatra_composites.js",
+      "source_sha256": "e10b7092d371fa0eef3c93cc3aa5b642e70e08bc29ee9208e9ef337e63c79a0a",
+      "packaged_path": "experiments/sar_lra/scripts/02_sumatra_composites.js",
+      "packaged_sha256": "783815f11771b9718b68bc540fa8a37b7558d3681521ffb0a75f13944ea9e774",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "sar_lra/analyse_kaikoura_availability.py",
+      "source_sha256": "63da69d22d7008d895ec5403484a5e58c15cdc54627c3c71ae8cf931e4c00df2",
+      "packaged_path": "experiments/sar_lra/scripts/analyse_kaikoura_availability.py",
+      "packaged_sha256": "bd704cbf9bb24f0c82a87eac1853173e02cff610c81396af7315588fec2c776e",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "sar_lra/audit_vv_history.py",
+      "source_sha256": "5281933a9250f9afcfc33dbf7742045c1e88af5075780dbfe1b1df82a758c713",
+      "packaged_path": "experiments/sar_lra/scripts/audit_vv_history.py",
+      "packaged_sha256": "c74ee0caf404b33cd121ee6ff390f5698019d93c72d0434338804637e52784c1",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "sar_lra/audit_vv_sources.py",
+      "source_sha256": "271fe2cbd2472ec24cb153bf1df4429b80a32e9fa8e8b6cd45d3748787d2a1bf",
+      "packaged_path": "experiments/sar_lra/scripts/audit_vv_sources.py",
+      "packaged_sha256": "d32aa7e3efd8210706ae083eb8bd5b9609116bb0a7e3dc39a59e84af7d077b64",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "sar_lra/check_full_kaikoura_dual_coverage.py",
+      "source_sha256": "4932680e2bba8172e1e313ae19862482a5df4fbbf65208d15a44f90c1c262df5",
+      "packaged_path": "experiments/sar_lra/scripts/check_full_kaikoura_dual_coverage.py",
+      "packaged_sha256": "82b8d5c8bb478ec62a079a8b84a7c29740ad8115839da2940b0fc6f5f26e7ecf",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "sar_lra/check_kaikoura_catalogues.py",
+      "source_sha256": "fbcbdb3cb7a0ad79706a5a4f710dd7017cf5b0a3506cc411429141a496934719",
+      "packaged_path": "experiments/sar_lra/scripts/check_kaikoura_catalogues.py",
+      "packaged_sha256": "9a84aae6b6997af6bcb51e8e6b5ab8d0d8347de3788ce647624fa83a66811cb1",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "sar_lra/check_track125_inventory_overlap.py",
+      "source_sha256": "dacbc3b3a2ff16bc1a351926aca47873eefe0a426fb842f7ed61b5cf1f28c5b2",
+      "packaged_path": "experiments/sar_lra/scripts/check_track125_inventory_overlap.py",
+      "packaged_sha256": "9a4ffa46f662c178f93c4c6d48d8d970a4c579f9a98ac98f6c9cb6a9ef98c545",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "sar_lra/check_weights.py",
+      "source_sha256": "8d75cb204218ef6779722b1960b20e6b6c43a55095941b08ccfda475b6a6788a",
+      "packaged_path": "experiments/sar_lra/scripts/check_weights.py",
+      "packaged_sha256": "ad07d7842c01e8833acfb587ca21c19364ab47362be354b2b0dd7799d98d8df1",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "sar_lra/download_composites.py",
+      "source_sha256": "52c5e226140c77aa3c38d300c67a533cf39603ad2dc86e4295f4c5a33f64580f",
+      "packaged_path": "experiments/sar_lra/scripts/download_composites.py",
+      "packaged_sha256": "cfecaf105898be9a39b92c3aaa654d5c845e44bbd49d03af1cb764736d40b613",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization",
+        "Workstation paths / temporary Earth Engine URLs replaced by placeholders; see experiments/README.md"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "sar_lra/download_inventory.py",
+      "source_sha256": "51843cd77d09ac697dd32c637245e98eaf0a8fe0d2947d92cdc7f8250110f104",
+      "packaged_path": "experiments/sar_lra/scripts/download_inventory.py",
+      "packaged_sha256": "ceef555d416b744293b7a5c33953aa013812eb9239bf7219b47792e563d5bf5e",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "sar_lra/evaluate.py",
+      "source_sha256": "7c04889c7cd7ad634f23265759faaa7f8558e249f74808750f9f5a6c864540a2",
+      "packaged_path": "experiments/sar_lra/scripts/evaluate.py",
+      "packaged_sha256": "d0a80121eae92a56581fcdda2626c488de9005b4974af06f22358efdcf5a2067",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "sar_lra/prepare_kaikoura_exploration.py",
+      "source_sha256": "4f54a929729a0d3fc10e9f17a85955a9770601375005ddcb9db217d7b950921d",
+      "packaged_path": "experiments/sar_lra/scripts/prepare_kaikoura_exploration.py",
+      "packaged_sha256": "421dced9e803c00c4f7b03ebcd3ab5771b01c8bd6eff6e8b43543c965346632f",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "sar_lra/prepare_reference.py",
+      "source_sha256": "37ad4f9f5ab512cd752b5bfeade947ca65169f16415d67c2ba6aa914593cb2a5",
+      "packaged_path": "experiments/sar_lra/scripts/prepare_reference.py",
+      "packaged_sha256": "0bc384fc3c5912ebea9813bd37138a3873cdb0166f266aab471b24711fab831e",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "sar_lra/prepare_sources.py",
+      "source_sha256": "dd73f868d9c5a676064b2891cc2d01c96bf66c504b28c1349af137d411b80078",
+      "packaged_path": "experiments/sar_lra/scripts/prepare_sources.py",
+      "packaged_sha256": "8cdde6bd1ffb8193d4e614c3ab8e5b030ba34effa9b08f691cefea3b38f84e48",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "sar_lra/verify_results.py",
+      "source_sha256": "9a58ca663b300f30ae4bade97e0a56f5dde493b0f0e65925246a8a04ad8829cd",
+      "packaged_path": "experiments/sar_lra/scripts/verify_results.py",
+      "packaged_sha256": "a64c4c8f7001448c0d2a5a0e460783065e68a096cd152fae3366975b31d43292",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "sar_lra/kaikoura_confirmation/01_prepare.py",
+      "source_sha256": "3276f9a114b346fbf86a25c39007fd2a1462c7c2b073c90237e5f63a4fbd3c26",
+      "packaged_path": "experiments/sar_lra/kaikoura_confirmation/01_prepare.py",
+      "packaged_sha256": "b18b9a5715d15c63bc0794f7d0810b95b893fe02b30203681919a4f9e1f80ebd",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "sar_lra/kaikoura_confirmation/02_generate_gee.py",
+      "source_sha256": "ecacbaefeae041b172542e1e27e3286add653392096860172c03654df9ec4d78",
+      "packaged_path": "experiments/sar_lra/kaikoura_confirmation/02_generate_gee.py",
+      "packaged_sha256": "eadbde6116b6fd88a98308e6dff7e13ed121cf22a9902af0fd12ebc254eeaa86",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "sar_lra/kaikoura_confirmation/03_exports.js",
+      "source_sha256": "a02f7ac7bd752711bc0a20908d9ac5d42efa5ab1feff886af84bc8390ed07f43",
+      "packaged_path": "experiments/sar_lra/kaikoura_confirmation/03_exports.js",
+      "packaged_sha256": "a02f7ac7bd752711bc0a20908d9ac5d42efa5ab1feff886af84bc8390ed07f43",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "sar_lra/kaikoura_confirmation/04_input_audit.py",
+      "source_sha256": "7559d8e4b9235ba8a2204763e159522f80b39f7718ddab52410ea8c627c21ed4",
+      "packaged_path": "experiments/sar_lra/kaikoura_confirmation/04_input_audit.py",
+      "packaged_sha256": "4594c0b96a902aeec882a91a0165eb5faee0d531ddb19ed755848f6855095018",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "sar_lra/kaikoura_confirmation/05_download.py",
+      "source_sha256": "42cebf673f1779bbb1fb40ae07e63a517c2adefcb216b8245cdc8a9a125cf242",
+      "packaged_path": "experiments/sar_lra/kaikoura_confirmation/05_download.py",
+      "packaged_sha256": "c6af4b3a8ce8167ca3358cf559bbe75d05a8c485c0e5cd4357ab49d343da0049",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "sar_lra/kaikoura_confirmation/06_evaluate.py",
+      "source_sha256": "9e7ce43686fecf212ee8f5d91ec1eb49bc517833bef8b76985209d1149f81fcf",
+      "packaged_path": "experiments/sar_lra/kaikoura_confirmation/06_evaluate.py",
+      "packaged_sha256": "9af2865572231bca1f8500d88e877b07886b0a2ffba95fe96af7d7cbf5235772",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "sar_lra/kaikoura_confirmation/07_verify.py",
+      "source_sha256": "b3df912361b2be06f3fde7f150a46885f93672a3eb0f278440b76c2080da5463",
+      "packaged_path": "experiments/sar_lra/kaikoura_confirmation/07_verify.py",
+      "packaged_sha256": "9c3afb0bed8ba5c3545101d1f83402ca37e4c28ec5eb09fff258f6041ee22858",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "sar_lra/kaikoura_confirmation/08_report.py",
+      "source_sha256": "adb33a1738b8293a192d478ea195480f794d2ee9b77af73121e5aa6347366ccf",
+      "packaged_path": "experiments/sar_lra/kaikoura_confirmation/08_report.py",
+      "packaged_sha256": "17101a7581d476fad96c87f3e29c1eb05de0f24b9851354641c8c904634352be",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "sar_lra/kaikoura_exploration/01_kaikoura_exploration.js",
+      "source_sha256": "a63584d9e08d1af36c1c07ce3371e7910e1cc9989b03f908d63f8c3db10b3220",
+      "packaged_path": "experiments/sar_lra/kaikoura_exploration/01_kaikoura_exploration.js",
+      "packaged_sha256": "47a3ee305b8fa009ccf280dccb4f854a444ce127374242ce5feb5c56b0f3e21f",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "sar_lra/kaikoura_exploration/02_download_input.py",
+      "source_sha256": "2a0f1b48f7704f7cd5d55af948eb61778e60d6eed72d174be08e81e799a06afe",
+      "packaged_path": "experiments/sar_lra/kaikoura_exploration/02_download_input.py",
+      "packaged_sha256": "efdff7e71840459868d7739032545779c86c373ed84f35d05ec65205f2e0f1c3",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "sar_lra/kaikoura_exploration/03_evaluate.py",
+      "source_sha256": "ee80962b7e0b73e0c5a9d53af8def1017adc76287f0c439fd10a62efa66c3855",
+      "packaged_path": "experiments/sar_lra/kaikoura_exploration/03_evaluate.py",
+      "packaged_sha256": "46e5e4217e2de42c8bb242838d4a4477886e89303c7439a7a5fc84064ecbe981",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "sar_lra/kaikoura_exploration/04_verify.py",
+      "source_sha256": "54d788feea9c541ffe3135c4efe5b30b583f25334997bddecdf480d716d6a7bf",
+      "packaged_path": "experiments/sar_lra/kaikoura_exploration/04_verify.py",
+      "packaged_sha256": "d831833889169e79476440d2b747c38527192488454f4a7bfa7a49251790fd3a",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "sar_lra/kaikoura_exploration/05_render.py",
+      "source_sha256": "2cc59c4138c5d5d4ab7c4bd3889ff0d3898c6c2fe3d94266fe107ed3a95325fe",
+      "packaged_path": "experiments/sar_lra/kaikoura_exploration/05_render.py",
+      "packaged_sha256": "aab188a84c37a661a5f068be4f9c19e9ca58557007146e48080b2a025d8821f9",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "l4s_unet/evaluate.py",
+      "source_sha256": "840e2744e69e6aa981093cc562f4fb430d8fb6953d7e2ed7f41cf7ca70c51851",
+      "packaged_path": "experiments/initial_candidates/l4s_unet/scripts/evaluate.py",
+      "packaged_sha256": "bdaeadae5abf8538af0505e8e9b2d2343cf6201877b7cbc8016704e577bf59e0",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "l4s_unet/prepare.py",
+      "source_sha256": "ef6afe345f23c83cbcff445158b8cfe7b76c0afe3929f595c9a64a216e3cbd93",
+      "packaged_path": "experiments/initial_candidates/l4s_unet/scripts/prepare.py",
+      "packaged_sha256": "44050b1d78da3471778b3c585d88533cebc335ca762844401f29f0dd754b672e",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "prithvi_landslide/download_checkpoint.py",
+      "source_sha256": "0102feb260d9b128f629c9823ea631f37b1244a5830775b8a096f1be4eb9f9ce",
+      "packaged_path": "experiments/initial_candidates/prithvi_landslide/scripts/download_checkpoint.py",
+      "packaged_sha256": "919ba09d3b6912db4c6776929f0251f56c76ae7d30e108bfcb6aaf89589a77de",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "prithvi_landslide/evaluate_prithvi.py",
+      "source_sha256": "1f2c122dacae5d401622ae38643ecbbc1e1c6fdce0ed9ca6d574aa8a5dc87ff5",
+      "packaged_path": "experiments/initial_candidates/prithvi_landslide/scripts/evaluate_prithvi.py",
+      "packaged_sha256": "f2b2fe7aa0cbfbab56b5f506e12c0d909fa5a2507f4fa9c980b560afbc7d9500",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "delft_rf/check_saved_model.py",
+      "source_sha256": "561259f6ce3a7883c91e61f2ef0ffc1d09d50fb10f0eefc782bccc9a8327a54a",
+      "packaged_path": "experiments/initial_candidates/delft_rf/scripts/check_saved_model.py",
+      "packaged_sha256": "c889b9a94d159a68d21cfb60a525788bf6175d2c5bb3ed8646f319c54573aa26",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "delft_rf/inspect_result.py",
+      "source_sha256": "1c966cf571e3331a9c188cc2da70fa92c722d52c78b594e1db6b835dd5a67221",
+      "packaged_path": "experiments/initial_candidates/delft_rf/scripts/inspect_result.py",
+      "packaged_sha256": "43a83e7b5c6b127f3ed62a36ae87f4cee1f96a335be67240e7ea92e1d58e51ba",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "delft_rf/prepare_legacy.py",
+      "source_sha256": "4d77a5e8c9231b00b5ee9300d3d0097fa675b0f29ccb96d05ee4ecda272b91c7",
+      "packaged_path": "experiments/initial_candidates/delft_rf/scripts/prepare_legacy.py",
+      "packaged_sha256": "f70abcf7f37455b99a948a34d841c3e04f88679a00dcceb7388cb056c220a945",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "delft_rf/prepare_rsgis_env.py",
+      "source_sha256": "b5ec4705725629aeb45c83c4eba2c02a546629a708b8d7bd4ce013459d934b5a",
+      "packaged_path": "experiments/initial_candidates/delft_rf/scripts/prepare_rsgis_env.py",
+      "packaged_sha256": "c8f47875b290deb7fe8a56b77bba3dd1b46a5a474c89c2c7dc05e814a62ba91c",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "delft_rf/run_author_sample.py",
+      "source_sha256": "73f7263d8650053cc6e2fcfab7b5ac0c2dbdef997f8f2c2e86a5f124b5b3db94",
+      "packaged_path": "experiments/initial_candidates/delft_rf/scripts/run_author_sample.py",
+      "packaged_sha256": "85014e39061f73383fad3506c808313aa788933d3b20bb61cfe6fe9050636ab2",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "spacenet8/check_alternate_sources.py",
+      "source_sha256": "558db314edce8bfb18d399d4b79339b60cece835088844f4ced4a381f7c93344",
+      "packaged_path": "experiments/initial_candidates/spacenet8/scripts/check_alternate_sources.py",
+      "packaged_sha256": "d0467ffbdc686f40791a89ff91062a0b7fb1dac039601a93f5f7d07ba2fac509",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "spacenet8/check_architecture.py",
+      "source_sha256": "2a35db42a8bab29192b93b8082c0bd62a7801b1cb6cd9961fc228e79d3217a27",
+      "packaged_path": "experiments/initial_candidates/spacenet8/scripts/check_architecture.py",
+      "packaged_sha256": "ae6d3d24c90c5b635146a5cfda1525d52e8a9956e26206df8c6a6a807edf5a3b",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "spacenet8/check_download_content.py",
+      "source_sha256": "accf96e69b7d770c83f3eff3387207584e32049bf02ecccf6f35cc73ae61f1e9",
+      "packaged_path": "experiments/initial_candidates/spacenet8/scripts/check_download_content.py",
+      "packaged_sha256": "6a560c095e3dc482528fea73d8804ba0631552a91ba4830f5d4edeccc201750c",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "spacenet8/check_sample.py",
+      "source_sha256": "35c6cff8db5f9e7f7c65264a0801c524cb863ee0a65f6b96a2b96e8b081d8e4c",
+      "packaged_path": "experiments/initial_candidates/spacenet8/scripts/check_sample.py",
+      "packaged_sha256": "09393e3d8c1d0646e263b8f85ccaaf7a2124430de931b411e6a59b66a7b59141",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "spacenet8/check_sources.py",
+      "source_sha256": "73b0cffe00bd2c9e23e480b4079243674883345f6056461aeb6ae26099e00fb9",
+      "packaged_path": "experiments/initial_candidates/spacenet8/scripts/check_sources.py",
+      "packaged_sha256": "e029d0a735afe18c86021f19aa3e1e4fb5bbcf62104d3c4630b0c380c8b974eb",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "spacenet8/download_kari_weight.py",
+      "source_sha256": "d2a290ce8a9ee42938da75914de6c8be82ddbf27e52aabe5ff6784595bcc6ffe",
+      "packaged_path": "experiments/initial_candidates/spacenet8/scripts/download_kari_weight.py",
+      "packaged_sha256": "a9f019fc25525ed90d50bf8d93b59f6b785f9d94b75ee7edba26ff2cfcf7c864",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "spacenet8/evaluate_kari.py",
+      "source_sha256": "facb2a70da903ae40b3a595e3abb9437323bcde8e2f7ba1cfff9ad762d946cf4",
+      "packaged_path": "experiments/initial_candidates/spacenet8/scripts/evaluate_kari.py",
+      "packaged_sha256": "ff0a236e38e59e0301f8718beb61c7b306cd3e541c4dcbc816a20c01f1147b18",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "spacenet8/load_kari.py",
+      "source_sha256": "105d2ff7e4e29559f095f94dd51b08a213a13638d37746e253812bcb5b52c21b",
+      "packaged_path": "experiments/initial_candidates/spacenet8/scripts/load_kari.py",
+      "packaged_sha256": "a8fd94ec9c88dde368d4acc7e641a3f77f832df7e9968ca3f4c876bbc5f978f2",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "spacenet8/prepare_kari_inputs.py",
+      "source_sha256": "6f8ce3a12c63cb865bd05a1186106acca1c60b61d5e4488e8ab6b39f9e651cd6",
+      "packaged_path": "experiments/initial_candidates/spacenet8/scripts/prepare_kari_inputs.py",
+      "packaged_sha256": "f7ff56029bef890fa81bc0f466d67431e2a238cf4afbda4aef690921302fbd4f",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "spacenet8/prepare_one_sample.py",
+      "source_sha256": "064179b7b3aebaea214624f2de2a4e282edf429ad92549407e60edbc69a6b4d9",
+      "packaged_path": "experiments/initial_candidates/spacenet8/scripts/prepare_one_sample.py",
+      "packaged_sha256": "73926c0f50c6dd3e1789165f92b4c62754e3a360c71551b285d42fe9c1998021",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "spacenet8/prepare_test_samples.py",
+      "source_sha256": "f894984d4b23cb293bd3b12d1f534c9098ed4e1bd51c4243f67557f371e33d35",
+      "packaged_path": "experiments/initial_candidates/spacenet8/scripts/prepare_test_samples.py",
+      "packaged_sha256": "1dfac21c6bdf2b7bec6c267785f7345da11fa66dd7d95ad6a8d5192e4abca225",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "spacenet8/verify_results.py",
+      "source_sha256": "9eae60cfef9157f2855e0f2f0c151e86c97ce80b39171f64a27d262a93117a60",
+      "packaged_path": "experiments/initial_candidates/spacenet8/scripts/verify_results.py",
+      "packaged_sha256": "d48b00500c7b755f844bca1e4a48e4b30e4733742e7b49263c041f0d05eb22c3",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "pilot_design/download_and_check_gee_quality.py",
+      "source_sha256": "a1b600e5510cfd717ae2860e1e20796364e2f96ddf54d8941f6bdeabcd24651d",
+      "packaged_path": "experiments/imagery/pilot_design/scripts/download_and_check_gee_quality.py",
+      "packaged_sha256": "6728ba2b0076528cbbf965fc209c08cad706c92fe584606956c429b014b98ee0",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "pilot_design/download_full_inputs.py",
+      "source_sha256": "cf90d00e04b040c69ef232c18b9071037edf4f09f4a71a31ece9065e25ef2544",
+      "packaged_path": "experiments/imagery/pilot_design/scripts/download_full_inputs.py",
+      "packaged_sha256": "67873f6d6a69b679edf03015d85b4edff979373a1f3735440e973b7a05653b8a",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "pilot_design/download_scl_candidates.py",
+      "source_sha256": "e00e777b295b9591e7340db630e8ac2dcc89677a0933144cb531c40b1c721c89",
+      "packaged_path": "experiments/imagery/pilot_design/scripts/download_scl_candidates.py",
+      "packaged_sha256": "f81dc7c0e186623cd2bb4bf5a3dfc9e5fe9512acf90477044b7b0b1bb0270095",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "pilot_design/gee_full_inputs.js",
+      "source_sha256": "fe103be0a9a5e73ed20583c8800c9f0cbea2233d6fc69bc1819b12c457e2aa08",
+      "packaged_path": "experiments/imagery/pilot_design/scripts/gee_full_inputs.js",
+      "packaged_sha256": "ac9b12a6b08a77b22b9b84f414ef8039a5057f9e0af257816482dbc0c19011eb",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "pilot_design/gee_original_dates_quality.js",
+      "source_sha256": "049c45b4fb1b11e061e22cb97acac42fcc2f3ad3ac897171043bb106c85cf3f0",
+      "packaged_path": "experiments/imagery/pilot_design/scripts/gee_original_dates_quality.js",
+      "packaged_sha256": "b7ca01e46a75970612a88b03d1245518f4132e7b243b4d2bb5301557233639cb",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "pilot_design/probe_public_l2a.py",
+      "source_sha256": "cdba9e9ce85ecc8ee5be184c00b73321806c0f0be17bc188b6e3f6c3d05600a8",
+      "packaged_path": "experiments/imagery/pilot_design/scripts/probe_public_l2a.py",
+      "packaged_sha256": "d21f61231c1edc179a9ef60c6240a931d2758ca5e0549c5e9922eec092bc19fc",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "pilot_design/select_sh1_pilot.py",
+      "source_sha256": "5fd1723be6b23b3a076d79c0dd21d963c87fd72f8eb21798a1da3973e6d9182b",
+      "packaged_path": "experiments/imagery/pilot_design/scripts/select_sh1_pilot.py",
+      "packaged_sha256": "25b94082603d779d724b405155d91491a19932b143f2c572eb31ed3fd454ee36",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "pilot_design/validate_staged_inputs.py",
+      "source_sha256": "e1687e770dffac8042f016e9b4d33f61fc838ddaf3e6b99645ec85ac4a77ae6b",
+      "packaged_path": "experiments/imagery/pilot_design/scripts/validate_staged_inputs.py",
+      "packaged_sha256": "c5f8e56140369383029fadf333d104c636f81f2f3a959cb6da28e32ad984fc60",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "sentinel1/01_inventory_candidates.js",
+      "source_sha256": "60325add844b5ec6f7c2a8d202453cb27d5c6df8da920aee3b2750e3aaac1ce6",
+      "packaged_path": "experiments/imagery/sentinel1/scripts/01_inventory_candidates.js",
+      "packaged_sha256": "026aeda6dd0e3988321758f9b845a4426c54112a1a0e0413030bcfb049820fa9",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "sentinel1/02_build_pre_post_change.js",
+      "source_sha256": "f67f44a5190a3d69bbcc9da9dec8a19d728e2c9a26014ccccdae50de49bcb8bd",
+      "packaged_path": "experiments/imagery/sentinel1/scripts/02_build_pre_post_change.js",
+      "packaged_sha256": "dc20da15471e58b625fab25bd33e6d57b2c384fd4b27cdc22882805ddd426724",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "sentinel1/03_process_and_export_corridor.js",
+      "source_sha256": "9cf6710f8f0e000cc9d430e9893688908955d325032e35a8c898d2a9cdf2364c",
+      "packaged_path": "experiments/imagery/sentinel1/scripts/03_process_and_export_corridor.js",
+      "packaged_sha256": "272952bd4842651e363635838b48f0055f4e1250596630d6d921fbe00594524d",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "sentinel1/03_process_and_export_corridor.template.js",
+      "source_sha256": "0b166d97e13bea472eea08c5717b24d809153419d5295522ceed89ab52612c8f",
+      "packaged_path": "experiments/imagery/sentinel1/scripts/03_process_and_export_corridor.template.js",
+      "packaged_sha256": "21be19c382ef9a197b58740a9acf542c8b5275851939ab439649f1268a2b11c7",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "sentinel1/build_route_geometry.py",
+      "source_sha256": "ecbb1e53d575ac8d3c792e88dd1aeccb276e66d11b0b6edecbd8774d23f8b54a",
+      "packaged_path": "experiments/imagery/sentinel1/scripts/build_route_geometry.py",
+      "packaged_sha256": "b4928c794f79d26056b79fdb9ad67c8b576ff0dfb8b796ee45de6f02a5e75da6",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "sentinel1/study_route_geometry.js",
+      "source_sha256": "4797644954585b7d9593b37c8759a99573e0e96844faa3c8646bac0380836781",
+      "packaged_path": "experiments/imagery/sentinel1/scripts/study_route_geometry.js",
+      "packaged_sha256": "4797644954585b7d9593b37c8759a99573e0e96844faa3c8646bac0380836781",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    },
+    {
+      "source_relative_to_original_testdata": "sentinel2/check_corridor_availability.py",
+      "source_sha256": "56c8eea2c5ac02dd63a24b89da80ab3e8a81c41aed309460efcff5ce6a3ed6e9",
+      "packaged_path": "experiments/imagery/sentinel2/scripts/check_corridor_availability.py",
+      "packaged_sha256": "7af3f2486ca1cc63823341f90e1a06e9eac6f4c0cf0d1c5d8b9afec1f5657ce7",
+      "changes": [
+        "UTF-8 text snapshot; newline normalization"
+      ]
+    }
+  ],
+  "archive_script_counts": {
+    "rf_vv": 16,
+    "bbunet": 17,
+    "cnnm_all_006": 14,
+    "sar_lra": 16,
+    "sar_lra/kaikoura_confirmation": 8,
+    "sar_lra/kaikoura_exploration": 5,
+    "l4s_unet": 2,
+    "prithvi_landslide": 2,
+    "delft_rf": 5,
+    "spacenet8": 12,
+    "pilot_design": 8,
+    "sentinel1": 6,
+    "sentinel2": 1
+  },
+  "limitations": [
+    "Source hashes establish traceability, not licensing clearance",
+    "Path placeholders preserve syntax only; archives are not turnkey",
+    "Portable CLI is separately authored and tested"
+  ]
+}
