@@ -1,6 +1,23 @@
 # Kaikoura landslide model investigation and VV data preparation
 
-GEOG761 group project, research progress as of 8 October 2026.
+GEOG761 group project. The original research snapshot below is dated
+8 October 2026. A final optical-analysis notebook was added on 25 October 2026.
+
+## Final optical analysis notebook
+
+The group's final Sentinel-2 landslide-screening notebook is preserved in
+[notebooks/final_optical_analysis.ipynb](notebooks/final_optical_analysis.ipynb).
+It records Route 70 inference calls, three-corridor GNS source-point matching,
+and the production of road-inspection figures. See the
+[notebook documentation](notebooks/README.md) for provenance and dependencies.
+
+This is an archival notebook, not a self-contained application. Its custom
+Drive-based corridor runner, cached SH1 inputs, satellite arrays and weights
+are not included. Saved outputs are historical records, not a fresh independent
+reproduction. Spatial matching rates and road-inspection classes are not
+validated road-passability predictions.
+
+## Preliminary research snapshot
 
 This repository records our investigation of pretrained landslide models and
 provides a portable Sentinel-1 VV feature-preparation and sample-extraction CLI.
